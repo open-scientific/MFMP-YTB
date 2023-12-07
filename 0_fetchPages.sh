@@ -58,4 +58,4 @@ do
     echo ""
 done
 
-#PAGEDATA$($PAGE)=$(jq -r . data/page-$PAGE.json)
+echo "Done"
