@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6EN5F9b8ztikGfQl3CFbwwz-0a4",
+  "nextPageToken": "CJYBEAA",
+  "prevPageToken": "CGQQAQ",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 1425,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UUgQBYafFghEI4jkoyViZGTJE1M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g9NdtG_D9Qk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-01T21:30:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Balance",
+        "description": "Give and take in LENR ---------------------------------------------------------------- Help light the New Fire: Please consider joining those ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g9NdtG_D9Qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g9NdtG_D9Qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g9NdtG_D9Qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-01T21:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IbHsrZyICyIRs24ZIMQsad0lgj8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "57cQKmCaUeI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-28T20:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Dan Easton - GEET Gotchas &amp; Tips (Zoom full frame, better audio)",
+        "description": "This is the better audio version of the Q&A recorded on Sunday 26 Feb 2023 @ 21:00 CET To see questions and discussion in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57cQKmCaUeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57cQKmCaUeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57cQKmCaUeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-28T20:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZGAa6rvdEYJ0k0GN6bez_ahyx_k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jyx500j5fWY"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-26T23:51:43Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Dan Easton - GEET Gotchas &amp; Tips",
+        "description": "Live Q&A, Sunday 26 Feb 2023 @ 21:00 CET - ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jyx500j5fWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jyx500j5fWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyx500j5fWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-26T23:51:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YK2b3G71XtXppEc5ihaCrnBGVPA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o7rp02JGug8"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-25T21:13:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "GEET - Henk Jurrien&#39;s reactor 18 Feb 2023",
+        "description": "On the way to making a working GEET reactor. ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o7rp02JGug8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o7rp02JGug8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o7rp02JGug8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-25T21:13:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6qTOEY3pcqMahm41vg9b3jFu3Hw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S2nRX9HZxlI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-20T00:10:28Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Circle of life",
+        "description": "Know thyself, and thou shalt know the universe and God. ― Temple of Apollo at Delphi LIVESTREAM - 19 Feb 2023 @ 21:00 CET ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2nRX9HZxlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2nRX9HZxlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2nRX9HZxlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-20T00:10:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WH7zr1oiRNCUxcNB2d6ClLm95ZU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n2caD_0lzJI"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-15T00:15:20Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - NOON",
+        "description": "More revelations. LIVESTREAM - 14 Feb 2023 @ 21:00 CET Please review previous presentation and references in advance ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n2caD_0lzJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n2caD_0lzJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n2caD_0lzJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-15T00:15:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tcuQVSiH-LTzNvSljAHGDqjT10g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X8n786K11cA"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-13T00:07:49Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Morning, not mourning",
+        "description": "As we move to explore working technologies, let's be aware of the potential challenges and their possible remedies.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X8n786K11cA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X8n786K11cA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X8n786K11cA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-13T00:07:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O9NIBgbsg-41KnTMHEdpyBu7zoQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_x9kkLSAXKw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T23:48:32Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Aurora consurgens",
+        "description": "Can we make the 'new' [eternal] fire and earth from water, air and aether? LIVESTREAM was held on 7 Feb 2023 @ 22:00 CET ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_x9kkLSAXKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_x9kkLSAXKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_x9kkLSAXKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T23:48:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jtvz3s--siHJ6ZsIgusQY749d84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ebPI86xAv6g"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-05T23:53:01Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Can we run the world on cow farts?",
+        "description": "LIVESTREAM was held on 5 Feb 2023 @ 22:00 CET Slides can be downloaded from here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ebPI86xAv6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ebPI86xAv6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ebPI86xAv6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-05T23:53:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5iUNgxcCGV2ZTn3UntbMN8oOjOk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SrSPsfnCpG0"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-02T20:30:02Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Strange radiation and the phenomenon of N. Kulagina: strange parallels - V.A. Zhigalov - (RUSSIAN)",
+        "description": "Webinar #2 of the winter-spring 2023 session of the Klimov-Zatelepin seminar was held on February 1, 2023 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SrSPsfnCpG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SrSPsfnCpG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SrSPsfnCpG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-02T20:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bShmRJtMuPpioU5Wqd0_wsMP4TA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q5aQQ9XRql4"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-21T09:00:25Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Synthesis of proton-boron (pB) in a miniature vacuum discharge in an oscillating plasma .",
+        "description": "Webinar #1 of the winter-spring 2023 session of the Klimov-Zatelepin workshop was held on January 18, 2023 (Wednesday) from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q5aQQ9XRql4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q5aQQ9XRql4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q5aQQ9XRql4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-21T09:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qnG2t_zMdZyFIT32ESdTzrJazRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DpLsaHWfpy0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-16T01:36:52Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "The Shakhparonov Generator - Replication of Hutchison and LENR Effects in the 1980s",
+        "description": "In this livestream, reasons for the Shakhparonov Generator to be considered as an experiment of interest for investigation will be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DpLsaHWfpy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DpLsaHWfpy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DpLsaHWfpy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-16T01:36:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rJot46D3jEl0OMP7XNfAiuTcE7I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d-rYWhvkubA"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-30T19:00:20Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Review of original ideas discussed in 2022 (Russian)",
+        "description": "Webinar №5 of the autumn-winter 2022 session of the Klimov-Zatelepin seminar was held on December 28, 2022 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d-rYWhvkubA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d-rYWhvkubA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d-rYWhvkubA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-30T19:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c0JqVJu7LV5EisJqiQ-_ghQq1SU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YTMX2G-Thyw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-27T20:00:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Statistics in the Process of Radioactive Decay Subjected to External Effects of Non EM Nature",
+        "description": "Webinar №4 of the autumn-winter 2022 session of the Klimov-Zatelepin seminar was held on December 14, 2022 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTMX2G-Thyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTMX2G-Thyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTMX2G-Thyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-27T20:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tsAVOWgucOdGBRSCmfFTPjFcp0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NxnvnOF1iLU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-19T19:00:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Hathaway Research Internationals highly accurate electrical power monitor",
+        "description": "Bob Greenyer discusses with George Hathaway a device that may just be a perfect fit for testing George Egely's EVO driven ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NxnvnOF1iLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NxnvnOF1iLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NxnvnOF1iLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-19T19:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7jj8oskZGdx7I1-rJ0vQzSZ4K2Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xpSNwperF-o"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-17T22:30:06Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Hathaway Research Internationals EVO Generator Overview",
+        "description": "On the ground in Toronto, Canada with George Hathaway, of Hathaway Research International (HRI), discussing the EVO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xpSNwperF-o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xpSNwperF-o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xpSNwperF-o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-17T22:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4ARr9WSD1lHzCrwMMvhYiCfV5wI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hyWQo1-O6ag"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-16T19:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Discussion of &quot;Hutchison Effect&quot; samples with George Hathaway",
+        "description": "On the ground in Toronto, Canada with George Hathaway, of Hathaway Research International, to discuss the \"Lift and Disruption ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hyWQo1-O6ag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hyWQo1-O6ag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hyWQo1-O6ag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-16T19:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PF9KbyBATOC7Gr-gYnZqKOGKrGY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n2tWWspfYT8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-12T06:56:55Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow 01 - SEM/EDS 02",
+        "description": "SEM/EDS look at Henk Jurrien's VEGA - Pillow 02 ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n2tWWspfYT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n2tWWspfYT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n2tWWspfYT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-12T06:56:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jFx7CzcgWFPmPNOhX_QU4FwrP_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "whatkJXXhWs"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-11T20:13:30Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow 01 - SEM/EDS 01",
+        "description": "First SEM/EDS look at Henk Jurrien's VEGA - Pillow 01 ---------------------------------------------------------------- Help light the New Fire: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/whatkJXXhWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/whatkJXXhWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/whatkJXXhWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-11T20:13:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r6hnsLeMKwa43_Ig_TtxJklrktA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BmgF6NfJ-78"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-09T02:33:58Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - Additional review of me356 Pd treated Nickel meshes and MR5.1 experiment findings",
+        "description": "The re-analysis of two samples of mesh (untreated and treated) provided by Tomáš Jędrzejek AKA me356 and another raw Ni ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BmgF6NfJ-78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BmgF6NfJ-78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BmgF6NfJ-78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-09T02:33:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Akr0wYo3dyoFZecw7PJGcXBm-qI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EWOLNxfXFAc"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T20:03:03Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - me356 Pd plasma coated Ni Mesh in Pd (first 70mins)",
+        "description": "First 70 mins of recording before live stream could be started of MESH (MR5.1) experiment where the deuterium was added and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EWOLNxfXFAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EWOLNxfXFAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EWOLNxfXFAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T20:03:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HJqGWyxQ7DgSk19W-bFitXNmSEU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gVc_5z3v-nw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T06:18:59Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - me356 Pd plasma coated Ni Mesh in Pd",
+        "description": "Live stream of MESH (MR5.1) experiment Tomáš Jędrzejek AKA me356 produced Pd plasma coated Ni Mesh in Deuterium at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gVc_5z3v-nw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gVc_5z3v-nw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gVc_5z3v-nw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T06:18:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ovOLhnaVxm2SIzfivzEEJsgkCLI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oDWmgLgTBdw"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T00:57:23Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - Loading me356 treated Nickel mesh into Mizuno R20-style reactor",
+        "description": "This video shows how 3 Pd \"activated\" Ni meshes provided by Tomáš Jędrzejek AKA me356 were loaded into the Mizuno ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oDWmgLgTBdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oDWmgLgTBdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oDWmgLgTBdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T00:57:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KOy_g1OGBXgGJxAVavpdhUgTUyQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ntQbc7fyM44"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T23:14:42Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - Position and nature of internal thermocouple",
+        "description": "Detail on \"T core (AIN0)\" reactor core thermocouple. ---------------------------------------------------------------- Help light the New Fire: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ntQbc7fyM44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ntQbc7fyM44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ntQbc7fyM44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T23:14:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lUhr3oZtvjLJ6Q_IIon3uHxno0g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mFEsamAlNqo"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T23:00:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Resonant incoherent scattering of gamma radiation in the vicinity of an electric discharge (Russian)",
+        "description": "Webinar #3 of the autumn-winter 2022 session of the Klimov-Zatelepin seminar was held on November 30, 2022 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mFEsamAlNqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mFEsamAlNqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mFEsamAlNqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T23:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "50FbCy8HL3nhfVew7Hi-PAHSoKY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fq_CRpacEbs"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T20:26:20Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - Discussion of pre-run calibration curves",
+        "description": "Alan Goldwater discusses the derived calibration curves from many calibration runs derived for the Mizuno R20 style experiment ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fq_CRpacEbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fq_CRpacEbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fq_CRpacEbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T20:26:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xX2K4LOd2Z46gv1asX2tOgzu_qw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y9opdG8zpwg"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T20:17:55Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - Residual gas mass analysis post final calibration",
+        "description": "Here is the Cirrus 2 residual mass gas analysis data from the pre-run final calibration ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y9opdG8zpwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y9opdG8zpwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y9opdG8zpwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T20:17:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8HKhPWLIl44RDTZq0F2O3lg1T1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C5D9Au1cAu0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T09:14:59Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - Review of me356 treated Nickel mesh SEM &amp; EDS analysis",
+        "description": "The analysis of two samples of mesh (untreated and treated) provided by Tomáš Jędrzejek AKA me356 are discussed. Download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C5D9Au1cAu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C5D9Au1cAu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C5D9Au1cAu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T09:14:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RhbMzhuqYEoY6Ipzq9oSm6vWYFg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k3oWcMHXlnU"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T08:00:38Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - Samples of me356 treated Nickel mesh in SEM ready for analysis",
+        "description": "Two samples of mesh provided by Tomáš Jędrzejek AKA me356 are loaded into the SEM for imaging and elemental analysis.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k3oWcMHXlnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k3oWcMHXlnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k3oWcMHXlnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T08:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "baPhfjLupfglQfoGfRtRWz2slMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tvUMdDw4sLE"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T07:53:27Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - Apparatus setup for testing me356 treated Nickel mesh",
+        "description": "Here is the apparatus Alan Goldwater had been calibrating in the week up to the 1st Dec 2022 in his Magic Sound Lab in Santa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tvUMdDw4sLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tvUMdDw4sLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tvUMdDw4sLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T07:53:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xi2IwjZqFdABckwph5qGDbGUZ1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K2FrqWJqwfQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-01T06:23:20Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MESH - me356 - Mesh received",
+        "description": "Tomáš Jędrzejek AKA me356 has sent the MFMP some untreated and treated Nickel meshes to attempt a replication of his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K2FrqWJqwfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K2FrqWJqwfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K2FrqWJqwfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-01T06:23:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IeYX3cG6oMlB8HuCD1A7vJHsHpo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IuMH3xggY_g"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-27T00:50:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Discussion of &quot;Hutchison Ray Gun&quot; setup with John Hutchison",
+        "description": "On the ground with \"Mr. Possible\" in 2018 to discuss the Hutchison \"Ray Gun\" This was a VLF test rig that John was exploring ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IuMH3xggY_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IuMH3xggY_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IuMH3xggY_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-27T00:50:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J4jJuq3x1KBHuIU806ZdjGHvAcE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lx7LQzXWhfg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-23T05:29:25Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Discussion of &quot;Hutchison Effect Replications&quot; with John Hutchison",
+        "description": "On the ground with \"Mr. Possible\" to discuss the Hutchison Effect and a past and seemingly recent replications ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lx7LQzXWhfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lx7LQzXWhfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lx7LQzXWhfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-23T05:29:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7iDK4czO5G0itO1Jf8OxWxi8_BM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W9F-DvkN2HI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-19T07:03:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Hydrocarbons and LENR - The possibility of creating a highly efficient HCE - reactor.",
+        "description": "Webinar #2 of the autumn-winter 2022 session of the Klimov-Zatelepin seminar was held on November 16, 2022 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W9F-DvkN2HI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W9F-DvkN2HI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W9F-DvkN2HI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-19T07:03:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_RgocAbKfOfPpuj60kmDbNdeCVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s93spNJMmdM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-16T00:22:51Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Marks of EVO action on cathode in “Cardioid Infarction experiment”",
+        "description": "8k video of the action of EVOs on soft iron cathode ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s93spNJMmdM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s93spNJMmdM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s93spNJMmdM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-16T00:22:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J_25lCLzBGUwPPH_EyJxWYhidnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dKOvp8xPdRs"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T15:42:39Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow 01 - 3D section representation",
+        "description": "This projection was derived from stack focus microscopy ---------------------------------------------------------------- Help light the New Fire: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dKOvp8xPdRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dKOvp8xPdRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dKOvp8xPdRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T15:42:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ph_wamx5OKZ_PZodwhJeCH6GVUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u56TkyoDfCA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T14:30:22Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow 02 - Dino-Lite Edge microscope session",
+        "description": "Measurements are taken during a good look at Henk Jurrien's VEGA - Pillow 02 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u56TkyoDfCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u56TkyoDfCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u56TkyoDfCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T14:30:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rmj8G9_Gp5sFa8F9BTn6Nkwbxv8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YmuZTipPwMk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T13:49:50Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow 01 - Dino-Lite Edge microscope session",
+        "description": "Measurements are taken during a good look at Henk Jurrien's VEGA - Pillow 01 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YmuZTipPwMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YmuZTipPwMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YmuZTipPwMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T13:49:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zr3uYUCHW4L4zy-21HhBIPagUVo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_s1E8_YpHxw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T22:17:45Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "STREAMING TEST - REMOTE",
+        "description": "STREAMING TEST ---------------------------------------------------------------- Help light the New Fire: Please consider joining those other ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_s1E8_YpHxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_s1E8_YpHxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_s1E8_YpHxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T22:17:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qIG7lf_Dm0gXIuBJ-1jlzB8esLs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S_5LTRTQ4uA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T23:01:39Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow - A repeatable Hutchison-like effect?",
+        "description": "Has Henk Jurrien achieved a repeatable Hutchison-Like effect in his VEGA reactor? Can we now explain it? LIVESTREAM, Sun ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S_5LTRTQ4uA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S_5LTRTQ4uA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S_5LTRTQ4uA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T23:01:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xSvUQy9ZnkAn3IdnAwRmBzBxgnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3rzeHONZxeI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T19:15:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow 01 - c - Stable quarter-on view",
+        "description": "Stable quarter-on view of VEGA - Pillow 01 LIVESTREAM https://youtu.be/S_5LTRTQ4uA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3rzeHONZxeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3rzeHONZxeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3rzeHONZxeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T19:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JVD90D_DyTuJuBZvav5NyTT6Jno",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6CfUxJEH2o0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T19:10:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow 01 - b - Semi-stable front window view",
+        "description": "Semi-stable front window view of VEGA - Pillow 01 LIVESTREAM https://youtu.be/S_5LTRTQ4uA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6CfUxJEH2o0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6CfUxJEH2o0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6CfUxJEH2o0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T19:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6OO9xgVcumBuWY_eDXz5cB5RGR8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lLA7K7mdQzU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T19:00:05Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pillow 01 - a - Close",
+        "description": "Closeup of one of the brass cathodes during VEGA - Pillow 01 LIVESTREAM https://youtu.be/S_5LTRTQ4uA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lLA7K7mdQzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lLA7K7mdQzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lLA7K7mdQzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T19:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xEQ_lRrz68Gwrh7iOdNVZCCb1fk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kClu4yxyYbY"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-12T23:54:57Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM 01 - Anode inside closeup",
+        "description": "An extreme close-up look of the area inside the 'flowers' on the Al anode by Henk Jurrien from his first VEGA - ALUM experiment ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kClu4yxyYbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kClu4yxyYbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kClu4yxyYbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-12T23:54:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nIEMq1H1zujySF1H0nbNTsFRjH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i2raH70IYbM"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-12T10:17:54Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM - Fluidised",
+        "description": "Frames from high speed video at high bit depth by Bob Greenyer of the Al cathode/anode from Henk Jurrien's VEGA experiment in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i2raH70IYbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i2raH70IYbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i2raH70IYbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-12T10:17:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sqA8rn5Q70IHlrWZi3bx9NnrXjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Emz2TmiVRo0"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-11T14:11:37Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM - Ectons?",
+        "description": "High speed video at high bit depth by Bob Greenyer of the Al cathode/anode from Henk Jurrien's VEGA experiment in residual air.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Emz2TmiVRo0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Emz2TmiVRo0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Emz2TmiVRo0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-11T14:11:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fpOgcM_8C_e7ZNtKBzvTQn0QmgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Njm-Sk5-CzQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-11T09:42:42Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM - Cathode under microscope",
+        "description": "Microscopy by Bob Greenyer of the Al cathode from Henk Jurrien's VEGA experiment in residual air and after addition of H2 and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Njm-Sk5-CzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Njm-Sk5-CzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Njm-Sk5-CzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-11T09:42:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qvkuoCeDkz1kUZBiqKd1qOoZTBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xhqOSu_IIfI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-10T09:37:57Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM - Tack?",
+        "description": "Photography by Bob Greenyer of VEGA experiment by Henk Jurrien, using Al cathode and anode in residual air and after addition ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xhqOSu_IIfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xhqOSu_IIfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xhqOSu_IIfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-10T09:37:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QPgAQoZkYmHUr_3nHKVFK8B9eJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2_H5hkQekoc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-06T23:33:06Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Taming a Neutron Star",
+        "description": "One more step on the road to a common understanding. LIVESTREAMED, Sun 6 November 2022 @ 23:00 CET Proton Scientific ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_H5hkQekoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_H5hkQekoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_H5hkQekoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-06T23:33:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bmqpk05N_FCIpbxqfzan-DSBCwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZHk0KlR909I"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-01T22:13:56Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Variable Cockcroft-Walton supply",
+        "description": "Henk's VEGA Variable Cockcroft-Walton supply ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZHk0KlR909I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZHk0KlR909I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHk0KlR909I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-01T22:13:56Z"
+      }
+    }
+  ]
+}

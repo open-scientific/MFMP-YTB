@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GtCYXJjABN3P0aPfYNtpJ5YePh8",
+  "nextPageToken": "CGQQAA",
+  "prevPageToken": "CDIQAQ",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 1425,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y3LtFjRv3DqdtzMk0iZcPj_zSJ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lSLEtSJHHLY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T23:28:43Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Novel spark gap?",
+        "description": "What is the bulb on the top for? ---------------------------------------------------------------- Help light the New Fire: Please consider joining ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lSLEtSJHHLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lSLEtSJHHLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lSLEtSJHHLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T23:28:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YHtOcVAl9BpoM8QJqqh5Ori77OY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fNcAed0ty88"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T23:11:36Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Electro-magnet spark gap??",
+        "description": "What would you use this for? ---------------------------------------------------------------- Help light the New Fire: Please consider joining ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fNcAed0ty88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fNcAed0ty88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fNcAed0ty88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T23:11:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gkp43qYvs44YAePvojT6AV7I11Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "39rlUEBBizE"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T23:09:05Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Safe pulse/pause duty cycle power controller",
+        "description": "Making an pulsed experiment driver circuit ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/39rlUEBBizE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/39rlUEBBizE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/39rlUEBBizE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T23:09:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vl1r8un3FUyshI1v_t9WdyUXvoM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QgtXCb9bauY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:57:03Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Recordings?",
+        "description": "Many tapes, video tapes. ---------------------------------------------------------------- Help light the New Fire: Please consider joining those ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QgtXCb9bauY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QgtXCb9bauY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QgtXCb9bauY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:57:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kfk2X2x2EzTcv2V698dHJJ0IPGk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G2rRxde6ABI"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:54:57Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Multi-motor apparatus - Miniature",
+        "description": "What is in the core? ---------------------------------------------------------------- Help light the New Fire: Please consider joining those other ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G2rRxde6ABI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G2rRxde6ABI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G2rRxde6ABI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:54:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7YS1Le-guY7PnyKJNhW7GQBh8Vc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cvf9TcUD59g"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:53:38Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Paul Newman",
+        "description": "Are you Paul Newman? ---------------------------------------------------------------- Help light the New Fire: Please consider joining those ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cvf9TcUD59g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cvf9TcUD59g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cvf9TcUD59g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:53:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c9TaRuA0hB6CTGcPm3P_Jk0E2uM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wP1yaQCIl-E"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:50:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Baba",
+        "description": "Visions ---------------------------------------------------------------- Help light the New Fire: Please consider joining those other interested ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wP1yaQCIl-E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wP1yaQCIl-E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wP1yaQCIl-E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:50:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "abCrw18IOvVtHoOqFfrhrLX1ESk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nqt42kt5ExA"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:48:30Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Cone coil?",
+        "description": "Silver? ---------------------------------------------------------------- Help light the New Fire: Please consider joining those other interested ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nqt42kt5ExA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nqt42kt5ExA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nqt42kt5ExA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:48:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7npvuRUx49IH30tcH9SMQ_G7xiQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4k2KCOMIw7M"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:44:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Marble bridge chain",
+        "description": "Help light the New Fire: Please consider joining those other interested people like you, that have already helped us advance this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4k2KCOMIw7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4k2KCOMIw7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4k2KCOMIw7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:44:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SRoX_KfUZ7IgOm8ipwUyP3qKT6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6fjKFLlm9nA"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:30:48Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Egg",
+        "description": "What? ---------------------------------------------------------------- Help light the New Fire: Please consider joining those other interested ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6fjKFLlm9nA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6fjKFLlm9nA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6fjKFLlm9nA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:30:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1w13JftFN6LDtbqd7Y7l9XTdrMk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0Q2inUwfQbo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:17:39Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Lepidolite",
+        "description": "Mica containing Lithium https://en.wikipedia.org/wiki/Lepidolite ---------------------------------------------------------------- Help light the New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Q2inUwfQbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Q2inUwfQbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Q2inUwfQbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:17:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IbSymEAEd7PswzmhuTUDVrMKBlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vcl2ZBboLTo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:14:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - D2O",
+        "description": "D2O ---------------------------------------------------------------- Help light the New Fire: Please consider joining those other interested ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vcl2ZBboLTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vcl2ZBboLTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vcl2ZBboLTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:14:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R8KwhFbXsZEO-KeE50e9sW35_tg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0tjaC59ftZs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T21:00:28Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Evidence of EVOs, pre WW1?",
+        "description": "Vintage pre-valve RF spark-gap transmitter ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0tjaC59ftZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0tjaC59ftZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0tjaC59ftZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T21:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2-8rlYGndaoEKJF3kKmzhIUZFDU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nu_uXVMg5AE"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T20:50:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Tripple motor, gold leaf band core?",
+        "description": "Er? ---------------------------------------------------------------- Help light the New Fire: Please consider joining those other interested people ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nu_uXVMg5AE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nu_uXVMg5AE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nu_uXVMg5AE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T20:50:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-NRMLPl32yas_4YnT2zmC-J5IDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m7bTPcv3nKo"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T20:35:25Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Valve amp",
+        "description": "Anyone know what this is? ---------------------------------------------------------------- Help light the New Fire: Please consider joining those ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m7bTPcv3nKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m7bTPcv3nKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m7bTPcv3nKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T20:35:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Sc0J6NSxBXhLvfGRiGT2SL-UlaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LnSpgCArRd4"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T20:10:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - The LION experimental platform",
+        "description": "Help light the New Fire: Please consider joining those other interested people like you, that have already helped us advance this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LnSpgCArRd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LnSpgCArRd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LnSpgCArRd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T20:10:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Cm57x_pktMLxDoHNfAnS0zk0_IA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X67hehKqoY0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T20:05:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Unusual Detector?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X67hehKqoY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X67hehKqoY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X67hehKqoY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T20:05:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zy5M_AmycEs4JAtrHOt6avM_dL0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y-euEh1F-Pk"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T19:57:30Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Unusual scalar induction pulse device?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y-euEh1F-Pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y-euEh1F-Pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y-euEh1F-Pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T19:57:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mFxNs7KNC_ed5C29foVGUU1Ozwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ge1zFZtfGM8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T18:45:06Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Home made wicks?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ge1zFZtfGM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ge1zFZtfGM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ge1zFZtfGM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T18:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PF-Bgov48RyEGL6XF_3UKGI6Frg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oxafuqzEHwY"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-03T18:25:56Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Custom Steam Boiler",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oxafuqzEHwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oxafuqzEHwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oxafuqzEHwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-03T18:25:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1OWeEhzdsrnWgq9UQ5UMB3Q9oQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7akgSXUq-uU"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T21:47:50Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - At the gate - Ensuring a Legacy 02",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7akgSXUq-uU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7akgSXUq-uU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7akgSXUq-uU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-01T21:47:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u1HRYXUSAU8H4IUzDkswdwhSTOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fNfguBrOB8s"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-30T19:23:14Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Ensuring a Legacy 01",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fNfguBrOB8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fNfguBrOB8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fNfguBrOB8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-30T19:23:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gqTaXxOFQ1grwePV7o1RekGYwjo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "58w_0TEvbss"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-29T10:46:43Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Windhexe update - End 4th Week April 2023",
+        "description": "Overview of experiments by Tony Jabony (AKA Robb), Henk Jurien and Chris Scott LIVESTREAM 28 Apr @ 22:30 CET ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/58w_0TEvbss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/58w_0TEvbss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/58w_0TEvbss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-29T10:46:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zI9rFBDD5KI6ddjIUuhQBlsas7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5yR0AOGefY8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-28T09:00:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Egyptian scientific document",
+        "description": "Is Seth the 'breaker' of the ancient world? ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5yR0AOGefY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5yR0AOGefY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5yR0AOGefY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-28T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t5mk97UQAAosfCbjbW6FMUGCBXs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bHtUVAxiT5c"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-25T23:20:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Geopolymer?",
+        "description": "Back to the future ... stone age edition What is a volcano really? What is in spring water? What is special about limestone and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bHtUVAxiT5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bHtUVAxiT5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bHtUVAxiT5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-25T23:20:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XctTrShn5NP8sLwdm_rJ8rm5EWk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ip-zmopwOeA"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-24T10:26:01Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Windhexe update - End 3rd Week April 2023",
+        "description": "Overview of build by Tony Jabony (AKA Robb), Experiments by Henk Jurien and Archeology investigations by Bob Greenyer ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ip-zmopwOeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ip-zmopwOeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ip-zmopwOeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T10:26:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6kItEVlcH1WczeFaPN38hXjCXu0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yh3110fh2Is"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T07:18:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Matsumoto - Experiment 71, overview, video, results",
+        "description": "Simple 800 ms experiment, data presented at ICCF-7, 1998 ---------------------------------------------------------------- Help light the New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yh3110fh2Is/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yh3110fh2Is/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yh3110fh2Is/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T07:18:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JX8y6gBXrra1EYohtMP7tzeMraY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BVUskH2T1GU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T16:47:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Matsumoto - First ever microscope session available online",
+        "description": "This is the first publication of a recorded microscope session conducted by Dr. Takaaki Matsumoto during the 1990s. In it, amongst ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BVUskH2T1GU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BVUskH2T1GU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BVUskH2T1GU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T16:47:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HjrQLxhDTy553bxZdYiRYMDRaBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Vrnh25omDo"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T15:30:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Matsumoto - First ever presentation available online - ICCF-7, 1998",
+        "description": "This is the first time this short presentation has been seen outside of ICCF-7, 23 April 1998, Vancouver where Dr. Matsumoto ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Vrnh25omDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Vrnh25omDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Vrnh25omDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T15:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kNLEGHdFAHxo4211HHwFNNQMvt4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LcJuyQaUGzs"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-11T13:36:27Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Temple of Apollo wall, Delphi, Greece",
+        "description": "How, oh how, could one reasonably build a wall like this?? ---------------------------------------------------------------- Help light the New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LcJuyQaUGzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LcJuyQaUGzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LcJuyQaUGzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-11T13:36:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "obsw5VVjPt1uekXSAw1ZcdJwuGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OlebHt8Epeg"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T21:45:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Version of prototype Windhexe engineering drawings going into manufacture",
+        "description": "Tony Jabony's (Robb) has shared his fabricator-verified engineering drawings of his prototype Windhexe design Download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OlebHt8Epeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OlebHt8Epeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OlebHt8Epeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T21:45:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yBmQOGNTEkDh2-Lf5o5obSJzTSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KXbZEWk9PiU"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T06:46:15Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Matsumoto - Inviting your questions",
+        "description": "Help light the New Fire: Please consider joining those other interested people like you, that have already helped us advance this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KXbZEWk9PiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KXbZEWk9PiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KXbZEWk9PiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T06:46:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WtLeAtgQFshM7QrzdOPQkJfzeYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9b58LhSRvyA"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-03T18:21:27Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Optimised prototype Windhexe engineering drawings and Bill of Materials",
+        "description": "Tony Jabony's (Robb) Rhino 3D mock-up of affordable prototype Windhexe design Download resources here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9b58LhSRvyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9b58LhSRvyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9b58LhSRvyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-03T18:21:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ac-PaugtwbRL-DpQZviWn9L7c8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rHxlrYRPdm4"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-02T23:26:18Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Evening",
+        "description": "Starting from mainstream papers and ending in the \"Great Work\" LIVESTREAM 2 Apr @ 22:00 CET ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rHxlrYRPdm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rHxlrYRPdm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rHxlrYRPdm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-02T23:26:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6oCRWrsDJ1E5ePdq62a5-vfpjqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n3i9O6OLX58"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-01T22:41:44Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Windhexe analogue -AirGrinder - &#39;Tornado Machine&#39;",
+        "description": "Jouni Tuonela found there is a commercial company that I understand bought licence rights to patents (which are now essentially ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n3i9O6OLX58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n3i9O6OLX58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n3i9O6OLX58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-01T22:41:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0S-Lgn6rHYlwCHiyKA03ha3biac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4acd__EQ1to"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T21:26:23Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Windhexe &#39;Tornado Machine&#39; + 3D &#39;O&#39;",
+        "description": "Tony Jabony's (Robb) Rhino 3D mock-up of Windhexe patent and 3D 'O' structure Download resources here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4acd__EQ1to/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4acd__EQ1to/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4acd__EQ1to/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T21:26:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iquTVmbU9YjQQr-gmL-zRs3Ir34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qfECeDbusRQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T17:31:45Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Windhexe &#39;Tornado Machine&#39; Cut through",
+        "description": "Tony Jabony's (Robb) Rhino 3D mock-up of Windhexe patent and 2D 'O' structure Download resources here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qfECeDbusRQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qfECeDbusRQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qfECeDbusRQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T17:31:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O2KM8XYk9HXP-TvsePNWhL-QrJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SI4LdjezRI4"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T06:00:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Mechanics and tomography of the atom (Russian)",
+        "description": "Webinar #6 of the winter-spring 2023 session of the Klimov-Zatelepin seminar was held on March 29, 2023 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SI4LdjezRI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SI4LdjezRI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SI4LdjezRI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T06:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "et_A0A6pOf3Ulfug7_hieo5RZMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tT0XsoCYR0I"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-30T22:22:35Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Explaining Frank Polifka&#39;s Windhexe &#39;Tornado Machine&#39;",
+        "description": "In response to my “Anomalous Radioactive Variations” presentation (where I make the observation that the prior work of Joe Parr ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tT0XsoCYR0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tT0XsoCYR0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tT0XsoCYR0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-30T22:22:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tqxps9Gb84SQZx84V0gjtwFqaKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8oaxpJgrg6o"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-29T20:00:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Anomalous Radioactive Variations",
+        "description": "How Joe Parr's 1979 onwards experiments support the independent findings of Dr. Alexander Parkhomov, Alexander Shishkin et.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8oaxpJgrg6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8oaxpJgrg6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oaxpJgrg6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-29T20:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EP4_wYwDsFzp72eawf17VWyyBGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ckGh46NYgYU"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-26T23:09:17Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Centred",
+        "description": "Discussion of the work of Joe Parr LIVESTREAM - 26 Mar 2023 @ 22:00 CET ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ckGh46NYgYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ckGh46NYgYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ckGh46NYgYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-26T23:09:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XWSDDuI7-zagL_lp5qPfeVErvRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BwyckT81No4"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-23T23:45:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Decoding the base of Teslas&#39; flower pot using viking art",
+        "description": "How viking art may help us better understand our LENR experimental data and demystify the last major mystery in Tesla's highly ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BwyckT81No4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BwyckT81No4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BwyckT81No4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-23T23:45:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IAYBI7dVMbhub-cOOnVUOSwEMXI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sXE2a7cYEnc"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-20T13:47:25Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "GEET - Henk Jurrien&#39;s reactor 17 Mar 2023",
+        "description": "On the way to making a working GEET reactor. Henk's comments: [Here is] \"the new setup. It runs, also under a little load.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXE2a7cYEnc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXE2a7cYEnc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXE2a7cYEnc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-20T13:47:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tXWCxF-yYZYcxxPaquTSniZNiog",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "49mmoJr5jes"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-20T00:41:02Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Elevation plan",
+        "description": "Discussion on LENR and 'O' structure evidence in relation to the GP including its plan. LIVESTREAM - 19 Mar 2023 @ 22:00 CET ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/49mmoJr5jes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/49mmoJr5jes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/49mmoJr5jes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-20T00:41:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VDPtOON1nuUP529sZWjdYPpGFVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LfMuI8agqy0"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-16T20:30:02Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Detection of cold neutrons by a scintillator generated in the TNLT-L installation (Russian)",
+        "description": "Webinar #5 of the winter-spring 2023 session of the Klimov-Zatelepin seminar was held on March 15, 2023 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LfMuI8agqy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LfMuI8agqy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LfMuI8agqy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-16T20:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mwlRXUFKStaPdb_cdFCdDqhz-34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "INmyzJb5D90"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-10T00:17:29Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Wormhole",
+        "description": "Conclusive evidence with respect to the 'O' structure in a Henk Jurrien VEGA sample will be discussed and its relation to the Great ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/INmyzJb5D90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/INmyzJb5D90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/INmyzJb5D90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-10T00:17:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UMgCiwXtzoYFrEySsFTtcy540Dk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vz4RqeDh5xI"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-07T22:00:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Proposed Dirac monopole structure matches Ohmasa Gas vs 10 Yen coin structure",
+        "description": "In 2019 we exposed a 10 Yen coin momentarily to Ohmasa Gas - an advanced form of HHO.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vz4RqeDh5xI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vz4RqeDh5xI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vz4RqeDh5xI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-07T22:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OFJu9v63tDPN0j8epgo1TwA1_xs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_GO_3A8hcwc"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-06T03:04:53Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - New dawn of an old age",
+        "description": "We are not the most advanced civilisation to have lived on Earth NOTE: You must at least watch this presentation first, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_GO_3A8hcwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_GO_3A8hcwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_GO_3A8hcwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-06T03:04:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wM-fejB4OPMMWpSkvk-E3a927rY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2-yrjwzO5WU"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-05T23:36:28Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Another Dimension",
+        "description": "Making the monopole real In this presentation, I will show the process I used to derive, from physical experimental evidence ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2-yrjwzO5WU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2-yrjwzO5WU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2-yrjwzO5WU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-05T23:36:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JEs4xm8j2_w_YQolWRwaJ1HUt-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f7bBVOPsuBI"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-04T20:00:06Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - That feeling you get when you do a Google Reverse Image Search with a basic 3D-O projection",
+        "description": "Is it merely coincidence that it came up with the responses it did? ---------------------------------------------------------------- Help light the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f7bBVOPsuBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f7bBVOPsuBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f7bBVOPsuBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-04T20:00:06Z"
+      }
+    }
+  ]
+}

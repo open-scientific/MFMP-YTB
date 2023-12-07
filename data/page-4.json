@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "x0ccvdAWe1ooSy4igSWShEsVmzo",
+  "nextPageToken": "CPoBEAA",
+  "prevPageToken": "CMgBEAE",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 1425,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mu961uUQgG3UkkhT_2hUDGoR1Yw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7e_eyDdS9Gw"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-17T00:08:52Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "John Hadjichristos on anomalous fields in 2012",
+        "description": "John Hadjichristos, Chief Technology Officer of Defkalion Green Technologies partial response to Francesco Celani on 19 Sept ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7e_eyDdS9Gw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7e_eyDdS9Gw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7e_eyDdS9Gw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-17T00:08:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nCrIrrjkgXShvwbXLFkYGxqDF8M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1cTqw6qnX18"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-16T16:13:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Resonances in the ether and their application - in Russian, slides in English",
+        "description": "Webinar No. 18 of the winter - spring 2022 session of the Klimov-Zatelepin seminar was held on June 15, 2022 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1cTqw6qnX18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1cTqw6qnX18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1cTqw6qnX18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-16T16:13:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wgogNjK290NTLMruT8SMNm4atx4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "shOEhUFmnnk"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-15T10:02:56Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Free parametric natural fractal donut builder by Peter S.",
+        "description": "Peter S. has developed another awesome tool to build 3D analogues of natures fractal bagels - n-tors - donuts - Exotic Vacuum ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/shOEhUFmnnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/shOEhUFmnnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/shOEhUFmnnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-15T10:02:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KY6UR5v4J8MYNq8JdvtkrWDULxY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yxLo6O5UTMs"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-13T21:31:16Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Henk Jurrien&#39;s new rig for testing his Super-Super-Tor",
+        "description": "Help light the New Fire: Please consider joining those other interested people like you, that have already helped us advance this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yxLo6O5UTMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yxLo6O5UTMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yxLo6O5UTMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-13T21:31:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KfDyJ83R1dixX9fTbF4Mpsxhcho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S9tx3dnA5LI"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-13T01:04:53Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day, Light &amp; Leptons",
+        "description": "Clustering of fractal EM toroids, leading to vacuum decay of matter LIVESTREAM 12 Jun 2022, 22:30 CET For years Bob ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S9tx3dnA5LI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S9tx3dnA5LI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S9tx3dnA5LI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-13T01:04:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ztm-PKAyNwaSGaEIqpi3kevDUWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BXzQHUIiFCY"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-10T17:00:16Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Alexander Shishkin explains the similarity of Parkhomov and his own teams findings (in Russian)",
+        "description": "Alexander Shishkin discusses the correlation between his findings, Ken Shoulders and Alexander Parkhomov. He then reports ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BXzQHUIiFCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BXzQHUIiFCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BXzQHUIiFCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-10T17:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cBjx2vQvSQ3TddwOTT7MIjZ5oBQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ySTexb-TyPE"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-10T15:12:32Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Free parametric bagel builder by Peter S.",
+        "description": "Peter S. has developed an awesome tool using free software and an open code set to allow anyone to quickly produce ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ySTexb-TyPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ySTexb-TyPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ySTexb-TyPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-10T15:12:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Ts7y2H3r_nswxt6pASPeWu3ei4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qK7W53JN1gc"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-09T20:43:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Introducing the Russian CNT and Ball Lightning community to latest findings",
+        "description": "Help light the New Fire: Please consider joining those other interested people like you, that have already helped us advance this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qK7W53JN1gc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qK7W53JN1gc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qK7W53JN1gc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-09T20:43:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6atbYHVfviVk8u4CGPV9W035H_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ERDG5iWHD0"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-07T20:49:05Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Science Stream with Bob Greenyer, BurnEye, &amp; Jeremiah - Year of the coil!",
+        "description": "Full recording of this unexpected group call on Crypto Alchemist's channel https://youtu.be/-mwBz8DQMTU.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ERDG5iWHD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ERDG5iWHD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ERDG5iWHD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-07T20:49:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4TgADNVhtK5F8dDwSfjGq7eZtEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CybwkdV5M18"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-07T00:28:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - First 3D model of Super-Super-Tor and suggestion for naming convention",
+        "description": "In this video, MFMP Volunteer Bob Greenyer discusses a Super-Super-tor (Bagel) model he made using Norm Johnson's \"Rope ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CybwkdV5M18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CybwkdV5M18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CybwkdV5M18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-07T00:28:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Di4-E37jFW2AghrqtlkQ7h9kfUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ubMj1JG-5qs"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T13:29:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Henk Jurrien does more magnetic field shape assessment of his  Super-Super-Tor",
+        "description": "MFMP collaborator Henk Jurrien's assessment of magnetic field around his LLLR 1,2,3,4 - tor and finds it is skewed by metal sheet ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ubMj1JG-5qs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ubMj1JG-5qs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ubMj1JG-5qs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T13:29:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KPET1ZPjohP2zSdykySHd1BJk7I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TkmVRu6GU-A"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-06T00:22:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "You can&#39;t always get what you want",
+        "description": "But if you're relentless, you might get what you need. LIVESTREAM 5 June 2022, 22:00 CET - ICCF-24 - Possible explanation for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TkmVRu6GU-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TkmVRu6GU-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TkmVRu6GU-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-06T00:22:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0WdrPHyik7PugN2zgEfEQFQZlU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lA0Aqdj-Pdc"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-02T15:01:52Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Promising ideas for Cold Nuclear Transmutation, Round Table (in Russian)",
+        "description": "Webinar No. 16 of the winter - spring 2022 session of the Klimov-Zatelepin seminar was held on June 1, 2022 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lA0Aqdj-Pdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lA0Aqdj-Pdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lA0Aqdj-Pdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-02T15:01:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ppqPaZo8lK2hNw6KPpa651XIJEk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4mrtgE6q4nc"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-30T13:40:41Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Study of “anomalous” properties of aqueous solutions - V.G. Shironosov (in Russian)",
+        "description": "Study of “anomalous” properties of aqueous solutions V.G. Shironosov, Research Center “IKAR”, 426068, Izhevsk, st. Architect ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4mrtgE6q4nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4mrtgE6q4nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4mrtgE6q4nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-30T13:40:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KtBi1n2VRmVpk5j0t5GcfCeHbK4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5rI5nJmGvEk"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-30T01:47:22Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Mining | Sweeping",
+        "description": "In this video, we explore evidence spanning many years that start to paint a clear picture as to how and why certain things occur in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5rI5nJmGvEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5rI5nJmGvEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5rI5nJmGvEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-30T01:47:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "itOCE3B5IKXAy8cjs8gZgWdN5k4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S-HYNNiFVQ4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-28T20:30:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - Revisit 4 years on",
+        "description": "Another look at the LION, 4 years on. What can we see? ---------------------------------------------------------------- Help light the New Fire: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S-HYNNiFVQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S-HYNNiFVQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S-HYNNiFVQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-28T20:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T2T_JHNxesP5yFpUXs1ItkE9v9E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GCQLysdd3nc"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-28T19:45:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Copper Blob",
+        "description": "A look around other areas of the Copper pipe VEGA experiment. ---------------------------------------------------------------- Help light the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GCQLysdd3nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GCQLysdd3nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GCQLysdd3nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-28T19:45:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LXG4j4ABBY746CPhOV-iMTOUv6A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wvdfs_5bktw"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-28T18:19:49Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - 15mm BL cut - torus impact (noise removed)",
+        "description": "This is part two of a two part look at the area around a 10mm Ball Lightning cut into a copper pipe. A large scale toroidal mark may ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wvdfs_5bktw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wvdfs_5bktw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wvdfs_5bktw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-28T18:19:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QuxLc4P0YyJRxHogHwgHzOoGc8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W298zGOV_gw"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-26T21:00:16Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - 15mm BL cut - torus impact",
+        "description": "This is part two of a two part look at the area around a 10mm Ball Lightning cut into a copper pipe. A large scale toroidal mark may ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W298zGOV_gw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W298zGOV_gw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W298zGOV_gw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-26T21:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NN1nKERLAhckw-8hZKLm7KSHysU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CPX7gmRmeq0"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-26T19:45:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - 15mm BL cut - scallops and EVO self organisation",
+        "description": "This is part one of a two part look at the area around a 15mm Ball Lightning cut into a copper pipe. A high level of detail of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CPX7gmRmeq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CPX7gmRmeq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CPX7gmRmeq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-26T19:45:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NfAoK40hknSkVwFPD-fe7vxrCnA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6QAJo0_rV00"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-25T06:30:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Prolapse",
+        "description": "In this video, we re-visit one of the crenelated Fe + O balls on the eastern plateau of the VEGA Valley which appears to have left a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6QAJo0_rV00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6QAJo0_rV00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6QAJo0_rV00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-25T06:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H4GyJK7sQggWhiBLBBAZiE2LpJI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YThl4t7txhI"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-23T17:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Bagel discussion",
+        "description": "Researchers and interested parties come together to discuss their bagel building exploits and findings and offer suggestions for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YThl4t7txhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YThl4t7txhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YThl4t7txhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-23T17:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XYYZ7KXsBtQ82EDmQZT-ulqXDiA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SRsz5j90AdQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-22T20:23:29Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MagnetoToroElectric Cluster (MTEC) Properties and interactions",
+        "description": "Short presentation on MTEC LIVESTREAM Sun 22 May 2022 CET 21:30 ---------------------------------------------------------------- Help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SRsz5j90AdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SRsz5j90AdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SRsz5j90AdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-22T20:23:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D_brPlUexbk0WCGE99g9BzaF4G8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ia8U8JZ1evQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-21T22:46:25Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Features of the radiation background in a room with electric discharges (in Russian)",
+        "description": "Webinar №14 session winter - spring 2022 of the Klimov-Zatelepin seminar was held on May 18, 2022 (Wednesday) from 16:00 to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ia8U8JZ1evQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ia8U8JZ1evQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ia8U8JZ1evQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-21T22:46:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D5XxGjwstrkpKz-Ms5ZuyQi37II",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r1HzbkLGQz4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-20T10:08:29Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Dr Alexander Parkhomov Update Presentation - 11 May 2022",
+        "description": "Parkhomov discusses his experimental journey and his current thinking on theory. You can download slides in English and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r1HzbkLGQz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r1HzbkLGQz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r1HzbkLGQz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-20T10:08:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RKpkBAgKKE0UTwygzPtOguGzL44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dh2LTc6DrGE"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-18T00:03:05Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Henk Jurrien assesses the magnetic field shape of his  Super-Super-Tor",
+        "description": "MFMP collaborator Henk Jurrien's assessment of magnetic field around his 1,2,3,4 - tor Next steps, - test without metal rule (Alan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dh2LTc6DrGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dh2LTc6DrGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dh2LTc6DrGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-18T00:03:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9TX5kgdZFwm5RqLp6nui8HyzbGA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HPbYmSYr4lk"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T21:57:15Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Using a Deep Zoom Image to identify interesting features",
+        "description": "This short video shows you how to navigate an extremely detailed Deep Zoom Image of the VEGA Valley Eastern Plateau to look ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HPbYmSYr4lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HPbYmSYr4lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HPbYmSYr4lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T21:57:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XC5vYg-7291Y1Qb4h-PwqQruGIQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "57zwRpQq07I"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T18:39:51Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Henk Jurrien is first to share initial findings from his Super-Super-Tor",
+        "description": "Here is MFMP collaborator Henk Jurrien's initial findings using a LLL super-super-tor he built. It should produce a sustained E ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57zwRpQq07I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57zwRpQq07I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57zwRpQq07I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T18:39:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "diIe_tw-elcIu57cIlrNXoGgLMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w2c6QYc8yWo"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-16T00:11:01Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Game O-ver",
+        "description": "They got 3 years to reveal 'O', a further 2 to come clean. As predicted, they went for scorched Earth. No more nonsense resource ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w2c6QYc8yWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w2c6QYc8yWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w2c6QYc8yWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-16T00:11:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tgJf1L5b6RmqDP2dzYc5SD85PM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ha97ZJB3xHg"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-13T20:30:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Bagel Bits",
+        "description": "More 'bagels' are found in various states on the VEGA valley eastern plateau, confirming the previous new finding that may ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ha97ZJB3xHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ha97ZJB3xHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ha97ZJB3xHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-13T20:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oQy1z0xMvw47J8YQPm2AOcXyF38",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6HWlNr2DGNg"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-13T19:00:19Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Bagel box",
+        "description": "Looking further at 'bagels' on the VEGA valley eastern plateau, reveals a surprising finding that may explain consistent ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6HWlNr2DGNg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6HWlNr2DGNg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6HWlNr2DGNg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-13T19:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pMDKu47jmUVph5DfNR4U5LtvBxA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E9v8FXm8Ui4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-12T19:00:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Ball hole",
+        "description": "Invisible shield? In this video of a realtime recording of analysis of the VEGA Valley eastern plateau, we see evidence that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E9v8FXm8Ui4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E9v8FXm8Ui4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E9v8FXm8Ui4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-12T19:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IN8np2qgCTHYrSSi27pVk14RWaM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UNb-pHLagLc"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-11T19:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Ball Lightning break up",
+        "description": "In this video of a realtime recording of analysis of the VEGA Valley eastern plateau, we clearly see what is likely to be the break up ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UNb-pHLagLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UNb-pHLagLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UNb-pHLagLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-11T19:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HZi5cp4bZ6i9I-TmDS_Cj41aG7Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vEhmV15osEE"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-09T00:24:18Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Role of radio nuclides in Hutchison Effect and other technology",
+        "description": "LIVESTREAM 9 May 2022, 00:40 CET ---------------------------------------------------------------- Help light the New Fire: Please consider ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vEhmV15osEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vEhmV15osEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vEhmV15osEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-09T00:24:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dD-UgbfNOSAJWlg84CxCI6an-lo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nh-mTf8eoog"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-08T22:10:23Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - The Bagel Game - the maths",
+        "description": "A quick look at \"Electromagnetic fields of current structures\" by N.E. Nevessky, 1993 in the Russian journal \"Electricity\" from 1993.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nh-mTf8eoog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nh-mTf8eoog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nh-mTf8eoog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-08T22:10:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5RCDlpAXM3rAOf7A8E3MJiOD_l0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c6v9xq5Mo78"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-04T23:06:38Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - There is nothing beyond this... The Bagel Game",
+        "description": "A read-through and discussion about the now translated Soviet-era energetics research article \"The Bagel Game\", its sound ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c6v9xq5Mo78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c6v9xq5Mo78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c6v9xq5Mo78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-04T23:06:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GFDYUmbainw9YXkJsBk2QGUVfuo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "03MIaic_lT4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T23:28:16Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "OHMA - Plain and Pd coated steel vibrator plate SEM-EDS data review",
+        "description": "A short review of SEM/EDS data taken of plain steel and Pd coated Dr. Ryushin Omasa vibrator plates in context of other authors ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/03MIaic_lT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/03MIaic_lT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/03MIaic_lT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T23:28:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p5SbbT984bzkbac-jwelSwcfC40",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lNhyNIsmIj0"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-01T17:00:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "OHMA - SEM-EDS look at cavitation spots on Pd coated OHMASA vibrator plate",
+        "description": "A quick look at cavitation spots on part of a Dr. Ryushin Ohmasa vibrator plate with a Scanning Electron Microscope with EDS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lNhyNIsmIj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lNhyNIsmIj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lNhyNIsmIj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-01T17:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jH-cIkTWrfJBE0K1OddQmujXwDo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4BgVU4XB1kE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-30T20:30:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "OHMA - SEM-EDS look at cavitation spots on steel OHMASA vibrator plate",
+        "description": "A quick look at cavitation spots on part of a Dr. Ryushin Ohmasa vibrator plate with a Scanning Electron Microscope with EDS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4BgVU4XB1kE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4BgVU4XB1kE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4BgVU4XB1kE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-30T20:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ra-67ioiXveDeuF2qsncfSn6_BI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tHQbcYKrsBA"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-27T19:30:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "APEC - 23 April 2022 - Bob Greenyer EVO QA",
+        "description": "Bob Greenyer answers questions to his early APEC presentation.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tHQbcYKrsBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tHQbcYKrsBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tHQbcYKrsBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-27T19:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FGUovzHsUyEplwQTs_WEEvaRkMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0YVzef4fLxE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-26T19:00:14Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Hutchison Effect - MFMP Hutchison sample 20 - The Knee",
+        "description": "Recording of SEM/EDS analysis of MFMP Hutchison sample 20 - The Knee Note: At some point in this video, the Logitech camera ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0YVzef4fLxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0YVzef4fLxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0YVzef4fLxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-26T19:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1cQxDhikSMV9trK-N-DB0fdk9ps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7B_dGZDPKIQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-25T20:30:14Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Jumping ball in the VEGA Valley eastern plateau",
+        "description": "In this video of the VEGA Valley eastern plateau, we see that a loosely attached ball at the end of a trail can be made to jump ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7B_dGZDPKIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7B_dGZDPKIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7B_dGZDPKIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-25T20:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N7pXhyCCFigMgQ_GgLxtJu-XwGI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9F7MFpZ0OUU"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-24T23:53:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Hutchison Effect - The sword in the stone",
+        "description": "In the context of recent observations on the VEGA Valley, we will take a look at the SEM/EDS data from MFMP Hutchison sample ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9F7MFpZ0OUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9F7MFpZ0OUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9F7MFpZ0OUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-24T23:53:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SL97qzCYq5qYmfGlbc3pVwlQlZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NTMgCAPXbM4"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-22T23:55:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Clarity",
+        "description": "Has the VEGA eastern plateau unlocked the way EVOs/Itonic Clusters/Ball lightning forms, acts and dies? LIVESTREAM 22 April ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NTMgCAPXbM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NTMgCAPXbM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NTMgCAPXbM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-22T23:55:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FxFSpHlqwkvjRzh3CLLV-XLxozc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m3lbS64CCzM"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-22T19:30:57Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - A clear view from the VEGA Valley eastern plateau",
+        "description": "A detailed look at part of the VEGA Valley eastern plateau. Images captured in this session showed potentially incredible detail ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m3lbS64CCzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m3lbS64CCzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m3lbS64CCzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-22T19:30:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_1NY25UGYWgjkUkbhfQ6M4csbjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VQiNX01_mXE"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-21T14:00:14Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Metrics of features in VEGA Valley",
+        "description": "A further look into the VEGA Valley with lots of measurements taken. The orientation of the sample did not let the electron beam ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQiNX01_mXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQiNX01_mXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQiNX01_mXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-21T14:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n6V2hEiR0tfBwpgQaxjlNwH4gRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9UC-sm3KFz4"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-17T08:00:48Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "ULTR - braided waves",
+        "description": "Highly interesting SEM features found on an ULTR experiment Al foil after an experiment conducted by Bob W. Greenyer for 180 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UC-sm3KFz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UC-sm3KFz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UC-sm3KFz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-17T08:00:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dIBdVpJgevPG9GyglCdRPhzb5Mk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bKdoBH8pp98"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-16T08:49:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - Recording of SEM/EDS analysis of Kerala black sand",
+        "description": "As it happened SEM/EDS analyses of Kerala black sand ---------------------------------------------------------------- Help light the New Fire: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bKdoBH8pp98/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bKdoBH8pp98/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bKdoBH8pp98/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-16T08:49:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D3GVlRxN_Ns1X1g9qT6NSd6ExhU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vQb3C_NYcms"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-15T12:10:59Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Fe rich crenelated ball speed search in the VEGA Valley",
+        "description": "With just 15 minutes time left on an SEM/EDS, Bob Greenyer tries to see if he can speed search for a new Fe-rich crenelated ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vQb3C_NYcms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vQb3C_NYcms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQb3C_NYcms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-15T12:10:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AAMlBJS9E3L0qq12WpLqO8lxagc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FXHwLimVmmc"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-14T18:00:04Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Round table &quot;Usherenko effect&quot; - (in Russian)",
+        "description": "Webinar No. 11 of the winter - spring 2022 session of the Klimov-Zatelepin seminar was held on April 13, 2022 (Wednesday) from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FXHwLimVmmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FXHwLimVmmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FXHwLimVmmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-14T18:00:04Z"
+      }
+    }
+  ]
+}

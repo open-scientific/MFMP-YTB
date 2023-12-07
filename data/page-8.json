@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "K7KMxFMr9UUj0PnVkrqeDeL4EIE",
+  "nextPageToken": "CMIDEAA",
+  "prevPageToken": "CJADEAE",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 1425,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bD851JizaSBSWYutLatcE2VLcdI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nxEHvBeDLBY"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-24T18:00:14Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Maxwell&#39;s equations and Occam&#39;s razor - Andras Kovacs",
+        "description": "Webinar No. 5 of the winter-spring 2021 session of the Klimov-Zatelepin seminar was held on February 24, 2021 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nxEHvBeDLBY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nxEHvBeDLBY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nxEHvBeDLBY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-24T18:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5QJWDSCW79FcMaaHGwuF7mYjTcI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zyNgpKU_dAU"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-17T20:52:29Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Matsumoto&#39;s book received, what does it mean?",
+        "description": "Live and open discussion on the Matsumoto's book \"Steps to the Discovery of Electro-Nuclear Collapse Here is an article with an ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zyNgpKU_dAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zyNgpKU_dAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zyNgpKU_dAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-17T20:52:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LJk_1PFIfK3TZaV5ZCegg6weEC8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YPAzFskvj9o"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-12T20:16:54Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Let&#39;s talk about reactor design",
+        "description": "Live and open discussion on the principles for a potential general purpose reactor design.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YPAzFskvj9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YPAzFskvj9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YPAzFskvj9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-12T20:16:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "We_gdqhPFMVxJKp0MbgQWn_gyjs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "igaJq_N4yfM"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-10T21:45:15Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley magnetic relief",
+        "description": "Vega 'Valley' overview is given in 4k with side lighting to accentuate the relief of the formations. Loose particles from the structure ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/igaJq_N4yfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/igaJq_N4yfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/igaJq_N4yfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-10T21:45:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ii3zGHFbuZdGqYCzmKOCti3DKDU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dyi4ymSt9F4"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-09T21:30:14Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley kernel canyon 4k",
+        "description": "Vega 'Valley' sample edges imaged with the Nurugo smart phone microscope attachment on a Samsung S7 phone - NOW IN ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dyi4ymSt9F4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dyi4ymSt9F4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dyi4ymSt9F4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-09T21:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RVFEInRl115JQ23RR3rj--0-EUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t3dtIFz7Flc"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-09T21:00:14Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley kernel canyon 2",
+        "description": "Another close look at the Vega 'Valley' sample canyon 'kernels' with the Nurugo smart phone microscope attachment on a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t3dtIFz7Flc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t3dtIFz7Flc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t3dtIFz7Flc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-09T21:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U-Gvxkn4aVLhFlnqlHivkgcEN_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BKivO42y5tE"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-08T21:00:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley edge on",
+        "description": "Vega 'Valley' sample edges imaged with the Nurugo smart phone microscope attachment on a Samsung S7 phone. In this video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BKivO42y5tE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BKivO42y5tE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BKivO42y5tE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-08T21:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RdXv680lFnWXcEXVEu81iPZo824",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8BEY0Ezgamk"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-07T21:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley alluvial channels",
+        "description": "The third of 3 videos looking at the Vega 'Valley' sample with the Nurugo smart phone microscope attachment on a Samsung S7 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8BEY0Ezgamk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8BEY0Ezgamk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8BEY0Ezgamk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-07T21:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EcDl0TybGzh3CZZWZol0Juyc2cY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lacwXLwOIjo"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-06T21:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley kernel canyon",
+        "description": "The second of 3 videos looking at the Vega 'Valley' sample with the Nurugo smart phone microscope attachment on a Samsung ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lacwXLwOIjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lacwXLwOIjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lacwXLwOIjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-06T21:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KxbtzJg5Y9d-wKV5KGD4QIA_IgI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8XoXOky-auU"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-05T23:45:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley bad lands",
+        "description": "A first of 3 videos looking at the Vega 'Valley' sample with the Nurugo smart phone microscope attachment on a Samsung S7 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8XoXOky-auU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8XoXOky-auU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XoXOky-auU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-05T23:45:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-WmSFokvWdmZqpaphPMucyoFnYw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QA2zuLXj-bU"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-04T20:50:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley Forge - Live microscope session 2",
+        "description": "Discussion on how the 'Valley' features on brass plate was formed ---------------------------------------------------------------- Help light the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QA2zuLXj-bU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QA2zuLXj-bU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QA2zuLXj-bU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-04T20:50:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iHiivGKrue3SJYjUr_S_f0y2-_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b4PiuU9H3o4"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-26T22:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Acceleration methods of Itonic clusters - Takaaki Matsumoto",
+        "description": "A paper given to at the 25th Linear Accelerator Meeting in Japan (July 12-14, 2000, Himeji, Japan) where Takaaki Matsumoto ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b4PiuU9H3o4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b4PiuU9H3o4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b4PiuU9H3o4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-26T22:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hNWfXHmNlE4Y3HkvVBJy4D3r160",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jZ_ANDEkTmA"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-22T14:15:43Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Discussion on European Union funded LENR projects (in Russian)",
+        "description": "Anatoly Klimov discusses the groups that recently received funding from the European union for LENR research.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jZ_ANDEkTmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jZ_ANDEkTmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jZ_ANDEkTmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-22T14:15:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VyjkUAS8yVO9tx2gwf3iiUQBVdA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_f1A9uESjbc"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-21T20:48:40Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Further discussion on potential geo-polymer casting technologies",
+        "description": "Leveraging the ubiquity of Exotic Vacuum Objects (EVOs) Further to the article presented here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_f1A9uESjbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_f1A9uESjbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_f1A9uESjbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-21T20:48:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QPf9EI3pH5nHxrIod6fS3r9m4pQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xXhpyNNz8Yk"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-18T21:16:37Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Does this explain geo-polymer casting techniques possibly used in ancient megalithic structures ?",
+        "description": "With experiments already completed, do we already have the evidence needed to explain the claimed phenomenon of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXhpyNNz8Yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXhpyNNz8Yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXhpyNNz8Yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-18T21:16:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t2Tzp4yelSSHmRiN4Yk1DNrGOiw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7B9N-ZObX8g"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-15T20:17:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Why are there H-block magnetic anomalies at Puma Punku and Tiwinaku?",
+        "description": "Can we explain H-block magnetic anomalies at Puma Punku and Tiwinaku in Bolivia ?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7B9N-ZObX8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7B9N-ZObX8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7B9N-ZObX8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-15T20:17:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nsopMjaHLnfzVxvzijoW-teZXGM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7rsHAd9GzLU"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-12T22:00:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "James Ross Coulthart interviews Bob Greenyer - First 30m",
+        "description": "Multi-award winning Australian Journalist and author is researching for a new book he is writing about Unidentified Flying Objects ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7rsHAd9GzLU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7rsHAd9GzLU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7rsHAd9GzLU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-12T22:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "29d_bo_r8hok9zzQaqgGgqvGp5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HhWBOWuu1zE"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-02T20:35:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "How was Nan Madol built?",
+        "description": "How was the Vast Archaeological Landscape at the Nan Madol World Heritage Site built? Bob Greenyer will propose a method ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HhWBOWuu1zE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HhWBOWuu1zE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HhWBOWuu1zE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-02T20:35:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HaaHT08SGw8ljb-eM-O13FYJNAk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lvtzxt9Duz4"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-31T22:08:55Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Tungsten chop shop",
+        "description": "Video showing the double layers of plasmoids cutting through tungsten and their magnetic influence on each other as well as how ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvtzxt9Duz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvtzxt9Duz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvtzxt9Duz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-31T22:08:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rtI6Lq8QCc6DT-aNBarnksrH0LE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CDS571Ygpw0"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-31T20:19:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Tungsten &amp; EVOs",
+        "description": "Is this an amazing discovery? Blog discussed in this video: https://remoteview.substack.com/p/vega-disappearing-nickel On the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CDS571Ygpw0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CDS571Ygpw0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CDS571Ygpw0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-31T20:19:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZyhZi0KhlWQoy2OPUKuAjmgV5xM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FtO6bZAA23E"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-22T13:25:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Nearly stable",
+        "description": "In this video, researcher HENK has nearly got the conditions stable to produce a dense plasmoid around the anode. Periodically ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FtO6bZAA23E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FtO6bZAA23E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FtO6bZAA23E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-22T13:25:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9ishOtkZbgP57-fKqAFmGo_Zjqg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CAn6_Cc4wCs"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-11T21:42:42Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Pimples",
+        "description": "By varying voltage, gas pressures and electrodes a range of plasma arrangements, with both stable and transient modes is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CAn6_Cc4wCs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CAn6_Cc4wCs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CAn6_Cc4wCs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-11T21:42:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XrouMN-RhEjU5WrWTxKiyqUGQtw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zIt6AVOZJaM"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-10T12:23:29Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - EMP?",
+        "description": "In this video, an old AM radio is held next to the observation camera outside the iron chamber of the VEGA reactor in the manner ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zIt6AVOZJaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zIt6AVOZJaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zIt6AVOZJaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-10T12:23:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wXPZQe5gModBkLN8pYykN5DokoA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AZfQQyJG6KI"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-04T22:00:29Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Transmuting Tungsten - 02: Mizuno",
+        "description": "In this video, the key findings of an experiment by Mizuno et. al. are discussed. It used tungsten, water and potassium carbonate ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AZfQQyJG6KI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AZfQQyJG6KI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AZfQQyJG6KI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-04T22:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zBfNdaX_xCLB-VwsaG7HRMfxaZ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nA5XFkF3U2A"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-20T21:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Making Coherent Matter Wave Beams and Their Capabilities",
+        "description": "A technology made possible by science proposed and developed from the 1950s by both cold war sides now is codified in an ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nA5XFkF3U2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nA5XFkF3U2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nA5XFkF3U2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-20T21:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JUMDwAVntPAlxbuHMaCl0uDhRE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sU5ZPJ37zBI"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-12T19:07:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Discover Cold Fusion - Comic Book Review",
+        "description": "Bob Greenyer reviews \"Discover Cold Fusion - Comic Book Review\" by Ruby Carat and Matt Howarth \"I highly recommended this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sU5ZPJ37zBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sU5ZPJ37zBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sU5ZPJ37zBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-12T19:07:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bC9l1aYorxTpQj0qC4RH2JaYEt0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "76fOgiOqQCc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T21:15:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RCCTN&amp;BL-26 - 2 Oct 2020, Afternoon Session",
+        "description": "13:10 - 13:40 The traces and signs of primary nucleosynthesis in the Earth's crust (Gonucleotide). On the role of cold nuclear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/76fOgiOqQCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/76fOgiOqQCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/76fOgiOqQCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T21:15:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Oyi3EfvmMfrMh_MwwuEOCTD71k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nYUshGdWsnE"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T13:00:01Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RCCTN&amp;BL-26 - 1 Oct 2020, Morning Session",
+        "description": "12:00 - 12:30 Analysis of data on the observation of ball lightning V. L. Bychkov Slides in English and Russian.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nYUshGdWsnE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nYUshGdWsnE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nYUshGdWsnE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T13:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "70J2lxSs49AnAdJImAAiTgHDgqY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PFY7f1APeII"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-01T15:27:16Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Kovacs - Magnetic Monopole Mass and Charge Radius",
+        "description": "Calculation of the mass and charge radius of a magnetic monopole based on the analysis of experimental data.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PFY7f1APeII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PFY7f1APeII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFY7f1APeII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-01T15:27:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0wb6j-SVKp4_Yic8oCLCnG82t8c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b6n8miZe858"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-01T11:52:19Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RCCTN&amp;BL-26 - 30 Sep 2020, Morning Session",
+        "description": "12:00 - 12:30 Fields of electrodynamics of an orientable point as an agent of cold transmutation of nuclei E.A. Gubarev 12:30 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b6n8miZe858/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b6n8miZe858/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b6n8miZe858/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-01T11:52:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5hY4C5lCkIu4Qe5AfQbAbPifUHM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WpeupBMlpe8"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-30T19:12:53Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RCCTN&amp;BL-26 - 28 Sep 2020, Morning Session",
+        "description": "12:00 - 12:20 Conference opening 12:20 - 12:50 Review of LENR's work in Russia and abroad since the 25th RCCTN&BL - A. A. ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WpeupBMlpe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WpeupBMlpe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WpeupBMlpe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-30T19:12:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H2KzSdHu1Vz8stKYSl_fDtecI68",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YjECNsRLyE0"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-29T21:20:30Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RCCTN&amp;BL-26 - 29 Sep 2020, Afternoon Session",
+        "description": "Start time 29 Sep 2020 03:32 PM 16:00 - 16:30 Investigation of elemental and isotopic changes in matter near incandescent ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YjECNsRLyE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YjECNsRLyE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YjECNsRLyE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-29T21:20:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KIQMuNpLWLuwtLhm0oWLR9IBYuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xn0NK30nk74"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-26T20:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "How to reliably make Elixir Vitae? Oh... and Strange Radiation...",
+        "description": "This video will explore an easy to verify, time tested and apparently reliable way to produced many of the classic strange radiation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xn0NK30nk74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xn0NK30nk74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xn0NK30nk74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-26T20:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qDTJWjtsv-IkgEVEscl18EvzcuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H_8Nsas5eY0"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-22T20:00:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "A clue to: Hacking The Neutrino Universe",
+        "description": "In the late 1950s, a Japanese scientist first proposed that neutrinos might have a relationship with gravity other than being affected ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H_8Nsas5eY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H_8Nsas5eY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H_8Nsas5eY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-22T20:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Oqx-FXEvd9S8iVfFsZgbFaFgjQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5jKnkCJawe8"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-11T22:00:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Art of Science and Integrity",
+        "description": "This video intentionally has no audio.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5jKnkCJawe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5jKnkCJawe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5jKnkCJawe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-11T22:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6jR8zvaMCKPI9RWfkJ1qsQSVLBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9QLJQHqu_KY"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-28T23:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Magnetic Signature of Strange Radiation - P4",
+        "description": "Do you want to rely on luck in your research in LENR? Or would you rather know if what you are doing is working and safe?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9QLJQHqu_KY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9QLJQHqu_KY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9QLJQHqu_KY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-28T23:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5GIF1H-6vOYFfyI2wgtQKPJeTVU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rtDd3PuGTyM"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-25T21:00:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Magnetic signature of Strange Radiation - P3",
+        "description": "What does the magnetic signature of Strange Radiation have in common with a mushroom? Main paper: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rtDd3PuGTyM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rtDd3PuGTyM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rtDd3PuGTyM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-25T21:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2fQCyE7e1PWOLU4OMpNOGjwxnPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QJxr3WnLQAc"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-22T20:00:26Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Magnetic Signature of Strange Radiation - P2",
+        "description": "A review of the seminal paper by L.I. URUTSKOEV, 2002 at the Kurchatov Institute, Moscow Link to paper: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QJxr3WnLQAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QJxr3WnLQAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QJxr3WnLQAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-22T20:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nwlN3lpVGpPemlCIrS9pO7TLUT0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f8hkg-TVcxM"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-17T21:00:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "OHMA - New test samples have arrived from Japan",
+        "description": "New samples from tests of Ohmasa Gas arrived 17th July 2020.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f8hkg-TVcxM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f8hkg-TVcxM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f8hkg-TVcxM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-17T21:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DNm5EpnqPEHu9M0MmV7i_KSOfZk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xucI4GkQa-g"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-16T22:00:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "OHMA - Exposure of 2% thorium doped tungsten to Ohmasa Gas - P2",
+        "description": "Link to presentation slides: https://drive.google.com/file/d/1v0RThiT-xO-Ez0HVQRdbnAvn2c0g8Vc4/view?usp=sharing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xucI4GkQa-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xucI4GkQa-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xucI4GkQa-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-16T22:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xSrZrR5vJbABQDT-7nLN-IMycTY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t0y3En1P5gE"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-14T17:36:46Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Erosion and other Plasmatron Plasma Generator Schematics",
+        "description": "Links to papers in this video and more LONG LIVED ENERGY CONSUMING DUSTY OBJECTS, APPEARING AT LIGHTNING ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t0y3En1P5gE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t0y3En1P5gE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0y3En1P5gE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-14T17:36:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qtJICRoRfsDO1HjfQx0eDOtA06I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "12F_1NEPkYU"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-10T23:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Incredible plasmatron phenomena - Anatoly Klimov",
+        "description": "Based on capillary discharge plasmatron work conducted in the 1980s, this work, that Anatoly Klimov discussed on the 17th June ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/12F_1NEPkYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/12F_1NEPkYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/12F_1NEPkYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-10T23:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "58i0YQdLEYospKHLjhLOPwEV370",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cUul-6yp8G8"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-09T21:30:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Amazing tracks - Alexander Parkhomov",
+        "description": "On 17th June 2020, Alexander Parkhomov briefly discussed some of the more interesting tracks he has observed in experiments ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cUul-6yp8G8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cUul-6yp8G8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cUul-6yp8G8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-09T21:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a4hJT1shdoXwcYiO6PV2ozS71DE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wdSNqUs76D4"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-06T21:45:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Investigating the magnetic and kinetic nature of unknown particles",
+        "description": "Translation of presentation given by Zatelepin V. on 17 June 2020 with commentary relating to other similar observations in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wdSNqUs76D4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wdSNqUs76D4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wdSNqUs76D4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-06T21:45:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C1Z3zKeFuuK2vuqwUFRi4rkqOCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cwbCDSkRwvs"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-01T20:00:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Making Tungsten Disappear",
+        "description": "What would happen if you could remove ALL of the electrons from Tungsten atoms? The crumbly effect described here, happened ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwbCDSkRwvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwbCDSkRwvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwbCDSkRwvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-01T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lM8nBxxXBNrsWaXC34dUaliXivY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pknB9B8jgu8"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-29T21:30:03Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Diffraction grating",
+        "description": "The 1000 line diffraction grating, intended to be potentially used for real-time spectral analysis of the Super NOVA plasma, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pknB9B8jgu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pknB9B8jgu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pknB9B8jgu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-29T21:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SDIB2A5tPqM0cqxVGzhKfTREy8g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ouVbxbUny4c"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-24T22:15:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Resonant and brute force Black EVO / String Vortex Soliton production",
+        "description": "This presentation proposes that a wide array of CNT/LENR observations of penetrating radiation that activates / deactivates ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ouVbxbUny4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ouVbxbUny4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ouVbxbUny4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-24T22:15:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cc-3k8V2r-2FpstogYjpRldRWro",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NNPNxed6xVI"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-19T21:30:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Investigation of Radiation Effects during Loading of Ni, Be and LaNi5 by Hydrogen",
+        "description": "PDF discussed in this video: https://drive.google.com/file/d/19RiMs_4TIPr-soGUod2Ku1tpI2RPQXk6/view?usp=sharing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NNPNxed6xVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NNPNxed6xVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NNPNxed6xVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-19T21:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kiGgCgSzoGeKgIup6lxtyi6MVTQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ny4mCeziEP0"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-12T22:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "How to determine the north and south pole of a magnet for free",
+        "description": "Ever wondered which pole is which on your magnets? Well, with this easy, free application, you can (WARNING, don't use on a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ny4mCeziEP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ny4mCeziEP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ny4mCeziEP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-12T22:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aYIlQ0jH2J1zU88FcxgKst1cgAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ggDhEmiELmc"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-12T21:00:21Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Presents on their way...",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ggDhEmiELmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ggDhEmiELmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ggDhEmiELmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-12T21:00:21Z"
+      }
+    }
+  ]
+}

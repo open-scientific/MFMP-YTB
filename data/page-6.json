@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Q0PMhFDsAkAtfJO_n8EbVo1z77E",
+  "nextPageToken": "CN4CEAA",
+  "prevPageToken": "CKwCEAE",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 1425,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mkHpVQB69UvPrzQQWC0UeJQu3qM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dZ4n537dlvg"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-16T20:00:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Russian community discussion about the Ecat SKLep &amp; SKLed",
+        "description": "Demonstration by A. Rossi on December 9, 2021 of the Ecat SKLep & SKLed. Webinar No. 11 session autumn - winter 2021 of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dZ4n537dlvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dZ4n537dlvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZ4n537dlvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-16T20:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5P0_5UNB2BQuQpXR2BxEnSVMkvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "le4zdLSpgKA"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-16T12:51:35Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Imperfect presentation to Russian Community On ECat SKLep",
+        "description": "Bob made a few mistakes in this and his computer over heated and froze so it was cut off, but it was an attempt to pass on some ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/le4zdLSpgKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/le4zdLSpgKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/le4zdLSpgKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-16T12:51:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Av8_gXQN0goMpSTcmikpYQJq_Cs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ihLLttc_eKo"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-11T00:36:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Explaining the SKL on the one year VEGA-EVO Blaster? video anniversary",
+        "description": "A discussion on some of what the VEGA-EVO Blaster? video is telling us. For more information, go here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ihLLttc_eKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ihLLttc_eKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ihLLttc_eKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-11T00:36:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nqb6lwXZEgzxgufM2z4tEQ-5Few",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pUPBWgDuiYE"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-09T13:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Soliton comparison",
+        "description": "This is extra analysis for this presentation https://youtu.be/ysvsdwHUETg ---------------------------------------------------------------- Help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUPBWgDuiYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUPBWgDuiYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUPBWgDuiYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-09T13:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C3eQ5OexlGdI_JgOfac55CUeqQ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "awP8bGm_Le0"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-08T21:00:03Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LENR in a Can - Soliton destruction-construction SLIDES",
+        "description": "Slides for the following presentation https://youtu.be/ysvsdwHUETg ---------------------------------------------------------------- Help light the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/awP8bGm_Le0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/awP8bGm_Le0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/awP8bGm_Le0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-08T21:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_Wo84oX9QfjVMebHbjK1N3guydM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ysvsdwHUETg"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-08T20:30:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LENR in a Can - Soliton destruction-construction",
+        "description": "Bob Greenyer gives an extended and updated version of his Assisi 2021 presentation and why he suspects data from Ohmasa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ysvsdwHUETg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ysvsdwHUETg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ysvsdwHUETg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-08T20:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pBEtveblSfAD6F9s4Vj3mwDZMh8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "84Yqea-GhaY"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-06T00:19:29Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Dynamics of moving electron vortices and magnetic ring",
+        "description": "Is mainstream science finally, publicly taking EVOs seriously? LIVESTREAMED 22:30 CET - Sunday 5th December 2021 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/84Yqea-GhaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/84Yqea-GhaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/84Yqea-GhaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-06T00:19:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VzbYOyElfMEkDcqkwbKIrJiaFd4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qKxUjiI7_0k"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-02T02:00:22Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "OSRAM ULTRA VITALUX - Spectra",
+        "description": "The spectrum of this wonderful lamp can be downloaded from here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qKxUjiI7_0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qKxUjiI7_0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qKxUjiI7_0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-02T02:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HNidD1JBvoza9gnDtCIgg-WSORQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aZNwYseOu8k"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-01T19:00:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "OSRAM ULTRA VITALUX - the first sun tanning lamp",
+        "description": "Incredible that this original unmodified late 1930s lamp, the first of its kind, still works! It may be the perfect lamp to use for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aZNwYseOu8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aZNwYseOu8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aZNwYseOu8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-01T19:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VT7_zLKEnZBhYpVBCINznxE8z90",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Onh7VxGl8Bc"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-25T03:00:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Russian Questions to Anatoly Ivanovich Klimov about his HHO Plasma experiments",
+        "description": "Experimental research on the physics of heterogeneous plasmoids created in a plasma vortex reactor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Onh7VxGl8Bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Onh7VxGl8Bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Onh7VxGl8Bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-25T03:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R9G8FUb-aLRGPu9SlZtbEBl2TEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-lBnAaKOLqM"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-25T00:30:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Experimental research on the physics of heterogeneous plasmoids - Dr. Anatoly Klimov (in Russian)",
+        "description": "A very interesting presentation discussing HHO tests on materials, Transmutation, Strange Radiation, Excess Heat, : Doctor of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-lBnAaKOLqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-lBnAaKOLqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-lBnAaKOLqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-25T00:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zVNOZA8zqn1jQl0KoHQnrjwOZcU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mEHcAyJy6kY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-24T23:00:22Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Questions to Anatoly Ivanovich Klimov by Bob Greenyer about his HHO vs Plasma experiments",
+        "description": "Experimental research on the physics of heterogeneous plasmoids created in a plasma vortex reactor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mEHcAyJy6kY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mEHcAyJy6kY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mEHcAyJy6kY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-24T23:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fo3Ia-xhtraAAk5NRQ74ldPESyk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kOyI7wSHT-I"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T20:02:17Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "HELIOS - Spectra",
+        "description": "A very tight spectra from the Helios Looks like low pressure Mercury Vapour lamp. However, the Spectrometer used does not see ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kOyI7wSHT-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kOyI7wSHT-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kOyI7wSHT-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T20:02:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "McWaC0ykkw14dNj5BTN78WcCSIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qSoxiXqgYGE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T17:05:50Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "HELIOS - Light",
+        "description": "This thing hums - and does not have much visible light but it is 300W ! ---------------------------------------------------------------- Help light ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qSoxiXqgYGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qSoxiXqgYGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qSoxiXqgYGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T17:05:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PVmglLH8SKrW99AdTbIlhW_Hc80",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "su-UNqOtEtE"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T06:00:26Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "HELIOS - Flash?",
+        "description": "Acquired, first close up look and quick powered test. ---------------------------------------------------------------- Help light the New Fire: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/su-UNqOtEtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/su-UNqOtEtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/su-UNqOtEtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T06:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OBdQ1OQfmUn1jL2IFMk-cGSaAdc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ur1d07OrWOQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-21T23:15:01Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Matsumoto - Steps to the Discovery of Electro-Nuclear Collapse - The first 20 pages",
+        "description": "We will take a look at the first 20 pages of Dr. Takaaki Matsumotos \"Steps to the Discovery of Electro-Nuclear Collapse\" book ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ur1d07OrWOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ur1d07OrWOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ur1d07OrWOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-21T23:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o319iGVw1-nDpyxKOEoLIkwXoWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xYnv-xb9kDo"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-18T19:00:30Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Matsumoto - Collected papers 1989-1999 to be released",
+        "description": "We have obtained permission to copy and distribute Dr. Takaaki Matsumoto's collected works.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xYnv-xb9kDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xYnv-xb9kDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xYnv-xb9kDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-18T19:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GY1K3YbEmC50h5fLO4ikRiGygHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bpCd0IvIogA"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-16T19:00:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - LION 4 teardown UPDATE 1",
+        "description": "The LION 4 reactor disassembly update 1 https://remoteview.substack.com/p/lion-lion-4-teardown ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bpCd0IvIogA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bpCd0IvIogA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bpCd0IvIogA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-16T19:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ItEW60pc7psvCs3PQSj9QDL5quA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gXhvsmgPECY"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-08T00:26:36Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - LION 4 LIVE teardown",
+        "description": "The LION 4 reactor will be disassembled LIVE and looked at with microscopy. LIVESTREAM Sun 7th November 2021 @ 22:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gXhvsmgPECY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gXhvsmgPECY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gXhvsmgPECY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-08T00:26:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qf9eJ2xhx5bxh6d7oriHI1OWYcw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0wNct0Vh3Ic"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-31T20:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RadiaCode 101 - Sharing spectrum data",
+        "description": "Spectrums and background data can easily be shared from the Android 8+ app and viewed for free by third parties.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0wNct0Vh3Ic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0wNct0Vh3Ic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0wNct0Vh3Ic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-31T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TWS0uAinhUFV9_4hC3huGx1d19o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NHdYPo0PDsU"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-26T23:04:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Bringing 4 H together",
+        "description": "What do Takaaki Matsumoto, Brillouin Energy Corporation & Clean Planet have in common? References are here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHdYPo0PDsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHdYPo0PDsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHdYPo0PDsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-26T23:04:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gefqw8_H65TV1ekNPScTR22S1e0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LxtaXksh_3A"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-26T02:00:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RadiaCode 101 - Sample comparison including automatic background removal",
+        "description": "The RadiCode allows you to take a background reading (or any other sample) and have it viewed or extracted from a sample ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LxtaXksh_3A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LxtaXksh_3A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LxtaXksh_3A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-26T02:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U6Ph6IqrNuVlnPmcAZ1I-oKbHag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-dF1r5mh6qk"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-24T22:37:43Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Electron Scavengers",
+        "description": "Discussion on Frank Gordons LEC replications and potential correlations with prior patents and work relating to higher order ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-dF1r5mh6qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-dF1r5mh6qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-dF1r5mh6qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-24T22:37:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ePrIa2i2wYn-8ilQkwOF6j1o3QA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m9_czIl4gTQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-24T20:00:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LEC - Jean-Paul Biberian",
+        "description": "Presentation to the Russian Cold Nuclear Transmutation & Ball Lightning meeting on Wed 20th October 2021.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m9_czIl4gTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m9_czIl4gTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m9_czIl4gTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-24T20:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YyvsDlgeWdRpHcbyn6dI-lMd2UY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "26gCZ5ttXUQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-21T20:00:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RadiaCode 101 - Android app, Mushrooms &amp; LION 4",
+        "description": "Were you ever curious to know if all those rumours about Eastern European mushrooms containing fallout from Chernobyl were ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/26gCZ5ttXUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/26gCZ5ttXUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/26gCZ5ttXUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-21T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aQIVFUMHCcSx0-4x0TkaO5cUxfc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "68yePkYLXRM"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-20T04:00:01Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "RadiaCode 101 - Quick look at hand held spectrometer",
+        "description": "A very handy little device for experimentalists. https://scan-electronics.com/en/dosimeters/radiacode-101 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/68yePkYLXRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/68yePkYLXRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/68yePkYLXRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-20T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tB6ajSX_1NPFAvdGO7v_1ZHoHtM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r-9kGPs00i0"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-17T22:56:16Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Magnetic Skyrmion",
+        "description": "We've mentioned them before and we will again. LIVE STREAM 17th October 2021, 22:30 CET ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r-9kGPs00i0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r-9kGPs00i0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r-9kGPs00i0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-17T22:56:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mksetRLMF5C1GssHkl-cLEIx600",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-ftzVFU-P0U"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-13T22:37:23Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Device and method for generating and manipulating coherent matter waves - Max Planck Society 1999",
+        "description": "A discussion in the context of MFMP and others work, of one of the references to the 2011 Lockhead Martin patent that was ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ftzVFU-P0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ftzVFU-P0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ftzVFU-P0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-13T22:37:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n8OIhPL3kFP6I1tBMJJFjbrcCxE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eTBD0J-zsnA"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-10T23:35:32Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Binding Energy - Technicalities in a technical test",
+        "description": "A discussion of binding energies in ordinary matter, exotic matter and potential implications. A technical test will be attempted ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eTBD0J-zsnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eTBD0J-zsnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eTBD0J-zsnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-10T23:35:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P9YmEsLnUf3wEmXOwpD8OopNz4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xgNZwqO4YTU"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-03T23:23:38Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Stimulated cluster decay",
+        "description": "Over the edge of stability. LIVESTREAM 22:30 CET, 3rd October 2021 ---------------------------------------------------------------- Help light ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xgNZwqO4YTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xgNZwqO4YTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xgNZwqO4YTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-03T23:23:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8HTbdqwB5VkLu2eX9497x1qay9U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iPBWgnLNe8M"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-29T12:55:29Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - 09 - Writing a shorter letter",
+        "description": "New equivalent call starting Oct 1st 2021.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iPBWgnLNe8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iPBWgnLNe8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iPBWgnLNe8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-29T12:55:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7WQC0ObsXkrio_bNciwug2wsgpg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QjXQypVG9p0"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-28T22:46:41Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - 08 - Just over 24 hours to submit proposal",
+        "description": "I got told earlier today that we have just till end of working day Japan on 30th to submit our proposal to NineSigma - so it's ALL ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QjXQypVG9p0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QjXQypVG9p0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QjXQypVG9p0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-28T22:46:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9wAAmMGWTBsnpTW5a-LHoQXi-qI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oAb4aJM-2kQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-26T23:57:53Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - 07 - Silver linings",
+        "description": "Do we have enough data to know we have a solution to the Tritium laced water? LIVESTREAM 21:30 CET, 26th September 2021 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oAb4aJM-2kQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oAb4aJM-2kQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oAb4aJM-2kQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-26T23:57:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q1CGPF9cd1L33nPR45tCSXeClac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cSwxzXEQdPE"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-19T23:36:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "ULTR - crop circles",
+        "description": "A review of SEM/EDS analysis done on ULTR experiments conducted by Bob W. Greenyer / Alan Goldwater and Prof. Bin-Juine ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cSwxzXEQdPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cSwxzXEQdPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cSwxzXEQdPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-19T23:36:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ts_pNCxTB7z7bR5DYJ2B7n2DFtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kM0ICs6V3GY"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-18T00:02:18Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Further look at VEGA Valley SEM/EDS data",
+        "description": "A deeper look at some of the SEM / EDS analysis done on the VEGA Valley Slides can be downloaded from here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kM0ICs6V3GY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kM0ICs6V3GY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kM0ICs6V3GY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-18T00:02:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fkfWZnhKeGhk79GGZ1ZzfiLamck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lHTDxJbPfXA"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-14T22:47:38Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - The Magnetic core of a &#39;Monopole&#39; ?",
+        "description": "First look at some of the SEM / EDS analysis done on 13th September 2021 14 September 2021: 21:30 CET ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lHTDxJbPfXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lHTDxJbPfXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lHTDxJbPfXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-14T22:47:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V2tEuPWKr-KbdHQ3tRerEBdW6PA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cTi0bLvfY6E"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-13T19:30:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "my movie - xx years on",
+        "description": "Andrew Johnson joins Bob Greenyer to discuss a scientific basis for a complete understanding of happenings surrounding 'The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cTi0bLvfY6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cTi0bLvfY6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cTi0bLvfY6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-13T19:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RiNNrM2a3XNhLNxFOVbpXF25pv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TZL4DTk3_ak"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-06T19:45:40Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "IWAHL14, Assisi - Alberto Carpinteri, Oscar Borla",
+        "description": "Correlation between nano-mechanics instabilities, THz phonons and sub-atomic particle emissions: Implications to geo and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TZL4DTk3_ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TZL4DTk3_ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZL4DTk3_ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-06T19:45:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GaHjRTrtMpo42L-hcSVMSMhVf-g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TLzNf77Pmsk"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-05T23:58:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Monopoles, Ball Lightning, EVOs, Coherent Matter and Strange Radiation",
+        "description": "A look at some of the material intended to be presented at this weeks Assisi conference, but that never made it. 5 August 2021: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLzNf77Pmsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLzNf77Pmsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLzNf77Pmsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-05T23:58:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kczKpxfVpZzRtPoFw5fBSI7I9vU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UqDvfCR6P3Y"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-04T20:00:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Coherent Matter Travelling Wave Beams - Part 2",
+        "description": "After some difficulty, Bob Greenyer managed to do a hash of a presentation of about half of the remaining material. Slides are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UqDvfCR6P3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UqDvfCR6P3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UqDvfCR6P3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-04T20:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AlUbiOSYQASVxMZlJCUclGjy7mM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dSBdQ3wocTk"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-31T18:30:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Assisi 2021 - LENR in a Can",
+        "description": "Bob Greenyer gave a brief overview of why he suspects data from Ohmasa Gas experiments in 2019 are the result of nuclear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dSBdQ3wocTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dSBdQ3wocTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSBdQ3wocTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-31T18:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QPfIbXGQAYi26xht0wbUNRlEkP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cpXNiq-x1B4"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-25T22:35:33Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - 06 - SEM EDS analysis of CaCO3 before and after HHO exposure",
+        "description": "Initial review of the data acquired on 24th August 2021 at CEITEC for raw mineral CaCO3 and the sample exposed to Slobodan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cpXNiq-x1B4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cpXNiq-x1B4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cpXNiq-x1B4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-25T22:35:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TFhd7jrh_xxsfhPi6VY2w5MV9QE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LpZxHpRHoYs"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-25T07:45:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Elemental analysis of a d to 4d toroidal EVO soliton strike on Copper Oxide",
+        "description": "This highly 3D resolved, d to 4d ratio toroidal EVO soliton strike, shows high form integrity, is partially submerged, contains higher ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LpZxHpRHoYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LpZxHpRHoYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpZxHpRHoYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-25T07:45:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nanosr6kTO6-iGjtwUYGJbdFAw8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mh963qkrY5k"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-25T07:30:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Another pretzel formation on Cu rich blob, with SULPHUR",
+        "description": "Yet another 'flux loop' like structure atop another blob in the copper tube from a HENK VEGA experiment, this time with a similar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mh963qkrY5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mh963qkrY5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mh963qkrY5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-25T07:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DmQekwiCRyWOBO8AoOcjwGjo3UY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fFrHdbY1o9U"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-25T05:00:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - CaCO3 vs HHO SEM EDS",
+        "description": "Here is a a look at one of the glassy products synthesised by exposing Vietnamese mineral CaCO3 to a flame produced by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fFrHdbY1o9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fFrHdbY1o9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fFrHdbY1o9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-25T05:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f17DQrRfpeRrxxXicLKgkZxML-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kCHUK96sPHs"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-25T02:00:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - First look at raw CaCO3 under SEM/EDS",
+        "description": "The Vietnamese sourced CaCO3 lives up to its quarry reputation of being one of the purest forms of the mineral. Just a below ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kCHUK96sPHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kCHUK96sPHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kCHUK96sPHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-25T02:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_rH_a9Fl8nMX3dCX7HayNxiwMr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nIuZIqpBJWg"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-23T04:00:34Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - First test of HHO on CaCO3",
+        "description": "Despite the spot pyrometer maxing out at 500ºC, it would appear that the CaCO3 had exceeded 825ºC by the end of the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nIuZIqpBJWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nIuZIqpBJWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nIuZIqpBJWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-23T04:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YTZThrMTbKPQ3urw7uaZqNPyNQc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7V9cyLokvbc"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-22T21:57:16Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - 05 - Encouragingly consistent first data",
+        "description": "Bob Greenyer will, before the HHO exposed CaCO3 is put under the SEM/EDS, review some very encouraging data we already ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7V9cyLokvbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7V9cyLokvbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7V9cyLokvbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-22T21:57:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4-nFuiyb21HaTQ1F2NXLX-VYyB8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dmIJjTakXvs"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-22T19:33:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - Argon Line?",
+        "description": "Is the Argon line indicative of a LENR process? ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dmIJjTakXvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dmIJjTakXvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dmIJjTakXvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-22T19:33:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TzPUF9NZduyIQay4Z--3-7ah7n8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oq0eBGJu7ps"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-20T02:00:04Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA and HHO samples ready for SEM - EDS",
+        "description": "VEGA Valley was cut to a size to enable it to fit on the large table SEM/EDS at CEITEC.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oq0eBGJu7ps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oq0eBGJu7ps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oq0eBGJu7ps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-20T02:00:04Z"
+      }
+    }
+  ]
+}

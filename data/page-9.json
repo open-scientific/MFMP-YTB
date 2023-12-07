@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "CRx7PzT6HLyZlchdrcWUz03YHkM",
+  "nextPageToken": "CPQDEAA",
+  "prevPageToken": "CMIDEAE",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 1425,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jmRJ610XEWHA70rGuj78BKNPkJY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HgkcZ__-v3o"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-11T20:00:15Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Radiation exposure from fission power, can it be repurposed for good?",
+        "description": "This video discusses radioactive nuclides produced in fission reactions, some of which you may have breathed in whilst reading ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HgkcZ__-v3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HgkcZ__-v3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HgkcZ__-v3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-11T20:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wkUJpGIBewzkiPbYCJpsNlpRJEA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j8otyfzDTyw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-27T12:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Are modern lighting solutions as good for us as they claim to be?",
+        "description": "This video discusses important areas of interest for anyone that uses electric lightbulbs, computers, phones and is interested in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j8otyfzDTyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j8otyfzDTyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j8otyfzDTyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-27T12:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zid7jjdpN6JvmqyfktczhGNqL3g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3-LGzV1HfqM"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-26T19:00:01Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Suitable replacement magnetron has arrived",
+        "description": "Not exactly the same, but equivalent power rating.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3-LGzV1HfqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3-LGzV1HfqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3-LGzV1HfqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-26T19:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EKvBG5JDnLAbLGFAj5F0ThWd3K4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TXC7-hfk7xs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T12:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "EVO Enabled Vacuum Capacitor",
+        "description": "An overview of potentially the first commercial revolutionary Exotic Vacuum Object (EVO) based device is discussed. Several ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TXC7-hfk7xs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TXC7-hfk7xs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TXC7-hfk7xs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T12:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gem6fH04tG-hs59lp3ye00wRWNM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "46s2t8paK_M"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-19T20:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Physical evidence of EVOs in Correa and Chernetsky devices?",
+        "description": "Physical evidence that self-generating discharge devices employ exotic vacuum objects (EVOs) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/46s2t8paK_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/46s2t8paK_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/46s2t8paK_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-19T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gLxf3q0UhTEvQ9EELeWSTpvC5fo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7_mIDYRI-a8"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-14T19:37:47Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Magnetron Cap",
+        "description": "One of two replacement magnetrons is made and following advice from the device maker, a protective cap is made.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7_mIDYRI-a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7_mIDYRI-a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7_mIDYRI-a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-14T19:37:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gUH4pF_mw6iT_d2o5fM_AitrMPY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K6VchsCsLtU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-07T20:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Making an ND2000 for an 8.5mm endoscope",
+        "description": "Making a ND2000 filter for this endoscope camera https://youtu.be/NM5pZL-0cV0 Using a washer and this ND2000 filter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K6VchsCsLtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K6VchsCsLtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K6VchsCsLtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-07T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eUked1jXrtW67FnsxLYf0WTzRsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mwohVG8lpdY"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-06T14:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - EVO Witness Target Preparation",
+        "description": "A walk through of the making of the witness targets with step by step microscopy. Here is a comparison of EVO witness marks and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mwohVG8lpdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mwohVG8lpdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwohVG8lpdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-06T14:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ll7XV5z5mjBFLhY6Km4hbXmq2mM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NM5pZL-0cV0"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-29T21:30:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "DEPSTECH 1944p - 5 Mpix wireless endoscope test, frames per second achieved",
+        "description": "An affordable wireless endoscope/borescope was tested for quality and the actual recorded frames per second achieved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NM5pZL-0cV0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NM5pZL-0cV0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NM5pZL-0cV0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-29T21:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ezr83I5bmHmsv4E70spivxZ7oAU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0_uZF7y0-Bk"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-28T20:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Ball Lightning in Australian Outback",
+        "description": "Ade, a farmer from the outback talks about his experiences of ball lightning in and around his property that are similar to those in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0_uZF7y0-Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0_uZF7y0-Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0_uZF7y0-Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-28T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0z2Fw2vh6XeEG7Or6fS562XAODY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UBcMiqV9v58"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-20T22:46:15Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Determining where EVO material comes from",
+        "description": "Help is needed to get two components for the MFMPs Super NOVA experiments to hopefully enable the capture of action in the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UBcMiqV9v58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UBcMiqV9v58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UBcMiqV9v58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-20T22:46:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ht_E-jipZnMlrdYWMTq6P9Lh_Uk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VE_1LJ7jWkk"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-07T21:23:52Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Splat selection from inside clamshell",
+        "description": "A selection of splat marks are looked at on the inside of the Super NOVA outer clam shell ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VE_1LJ7jWkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VE_1LJ7jWkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VE_1LJ7jWkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-07T21:23:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K4kB7g-xV8d7t5zjTsG0bKvihjE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZRyKmezWa4U"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-03T22:38:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Transmutation &amp; Teleportation",
+        "description": "Bob Greenyer asks: how we can determine where the material for Super NOVA EVO strike marks comes from? Images of inside ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZRyKmezWa4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZRyKmezWa4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZRyKmezWa4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-03T22:38:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NlaC-JDyiWiCRS9ex0Rs_KiVJig",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xXOqpN1Kl2U"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-02T17:24:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - EVO TWO",
+        "description": "Bob Greenyer considers further options for in-experiment detection of potential EVOs and discusses one potential witness mark in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXOqpN1Kl2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXOqpN1Kl2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXOqpN1Kl2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-02T17:24:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r0Wdi7G12uGaLXi0WV8a37HR7iA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cAFNgYqj0vU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-01T18:51:42Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - EVO ONE",
+        "description": "Acting on a growing understanding of how LENR systems work, Bob Greenyer took a look on the inside of the Super NOVA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cAFNgYqj0vU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cAFNgYqj0vU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cAFNgYqj0vU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-01T18:51:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z4d_XFV9qgQ1VGaCfDNqR7cWPLQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bIv55RKf3pc"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-31T21:35:24Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Microwave Emissions",
+        "description": "A test to see how strong the microwave emissions are 21cm from the front surface of the Super NOVA with a dummy load of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bIv55RKf3pc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bIv55RKf3pc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bIv55RKf3pc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-31T21:35:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NXZBd0-H1Wkpbk-SpRzHHAsk32k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YD3nCIF-Iq8"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-30T17:26:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Pulse Oximeter S1 - Quick look",
+        "description": "A simple device to measure blood oxygen levels and heat rate, an indirect indicative tool to monitor lung function. Understanding ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YD3nCIF-Iq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YD3nCIF-Iq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YD3nCIF-Iq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-30T17:26:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tbeA1pZvCt8NGFqhnBai3WC_Prs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o4ctV6MVW1w"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-27T16:38:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Beta count monitoring controls",
+        "description": "In this video, Bob talks through options and configurations for controls of the beta detection and options for use of the GM pancake ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o4ctV6MVW1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o4ctV6MVW1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o4ctV6MVW1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-27T16:38:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EUsNAw8-9341Qov0Zm_0fACZTlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yYHfo5k7ycE"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-25T22:00:27Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA - Preparing to test bio-available beta isotopes",
+        "description": "Short overview of plans for Super NOVA testing ------------------------------------------------------- If you appreciate this work and want to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yYHfo5k7ycE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yYHfo5k7ycE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yYHfo5k7ycE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-25T22:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZNYb_ZLm-I9S-726shdaFo6npss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SWYBnqfHpWE"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-20T17:02:58Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Activating high contact surfaces to reduce coronavirus infection spread",
+        "description": "References https://www.businessinsider.com/mask-coated-in-salt-neutralizes-viruses-like-coronavirus-2020-2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SWYBnqfHpWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SWYBnqfHpWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SWYBnqfHpWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-20T17:02:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RAH4SoCUIvwFfCtUJvbGBLUgjqM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c6R1Xjp3lXA"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-18T22:17:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Activated masks - for personal pathogenic protection from Coronavirus",
+        "description": "Take/make a mask and add table salt References ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c6R1Xjp3lXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c6R1Xjp3lXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c6R1Xjp3lXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-18T22:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NSHUkWxy7K3Rps4S8J6s-ugJ5ko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "No2F324mrMY"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-13T20:23:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "How times change",
+        "description": "Source https://www.worldometers.info/coronavirus/#countries ------------------------------------------------------- If you appreciate this work ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/No2F324mrMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/No2F324mrMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/No2F324mrMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-13T20:23:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VgBI5uANyrFoym71ANUfL0pTNA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pHTyKLDiqaA"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-11T22:31:50Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Coronavirus - are you ready yet? 3 Countries in view",
+        "description": "Thanks to Kim & Emanuele Ruggiero http://www.kinovision.org.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pHTyKLDiqaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pHTyKLDiqaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pHTyKLDiqaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-11T22:31:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KnutOPaMLTn5gCkLD68tt0lgBQI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3vJdSiR9p1Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-07T17:42:45Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MIZUNO Analogue experiment at Magic Sound Lab - Update 1",
+        "description": "MFMP volunteer Alan Goldwater in California is spearheading a meticulous MIZUNO R20 analogue experiment. You can follow ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3vJdSiR9p1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3vJdSiR9p1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3vJdSiR9p1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-07T17:42:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "am8R7xYI8qgKFc0wHOb67t5OHDU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1BxnDe5mu14"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-06T22:45:23Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Hutchison Effect - Magneto Toro Electro Gravitic field interference driven transmutation - Fracture",
+        "description": "With a growing body of evidence, including specific patents from the US Navy, statements from Martin Fleischmann and Takaaki ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1BxnDe5mu14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1BxnDe5mu14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1BxnDe5mu14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-06T22:45:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "etcHiKMUFI-9JwUARSHX46khrQ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zNMA1sZg47I"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-05T21:33:37Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Project Atomic Phoenix - Second Update",
+        "description": "Smoke test done - The electronics fired up! LIVE Document here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zNMA1sZg47I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zNMA1sZg47I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zNMA1sZg47I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-05T21:33:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kgz_X2J1KUqN6t_IOCgawxzf2z4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hsfOcTlAvjY"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-04T00:14:38Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Same Same, But Different + UV Emissions",
+        "description": "In this video we discuss nature and nurture of EVOs and how they may express differently within an overall design and at the end, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hsfOcTlAvjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hsfOcTlAvjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hsfOcTlAvjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-04T00:14:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-sT7ihkfgtCrUPhALvlhVqsQEYk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qXjW1xgDQJg"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-29T01:51:05Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Learning LENR From SUN - Magnetic Flux",
+        "description": "It turns out that the magnetic flux captured by the European Space Agency of a sun spot is a very close match for structures ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qXjW1xgDQJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qXjW1xgDQJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qXjW1xgDQJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-29T01:51:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cezc2HnqaBKJGvI2hY5eHnLuiqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s5YlXQquAU0"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-25T23:16:50Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Hutchison Effect - Metal fracturing &amp; magnetic pole anomalies explained",
+        "description": "Short video to show how simply understanding how EVOs work can make it easy to explain some of the most strange macro ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s5YlXQquAU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s5YlXQquAU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s5YlXQquAU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-25T23:16:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IXmMZ853ipVdyJvki2hrZPSaXuI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UYYsRjKsPfg"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-25T08:25:42Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Vortex flow and stability in EVOs - Part 3",
+        "description": "A Discussion on how the inside and outside of the EVO counter rotate and counter twist their charged ion payloads. Hessdalen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UYYsRjKsPfg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UYYsRjKsPfg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYYsRjKsPfg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-25T08:25:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SjXcJna1cRYQibFjIvIM4mcbEaI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xf0Kb2DT14E"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-24T13:10:55Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "LION - EVO Flow in LION 1 Quartz vs LION 3 X-Ray plate",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xf0Kb2DT14E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xf0Kb2DT14E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xf0Kb2DT14E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-24T13:10:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eetdjOtH-6XBLJrrm3S3eysHlKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KOlJwSmjqbs"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-20T22:02:23Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Vortex flow and stability in EVOs - Part 1",
+        "description": "Vortex flow and stability in EVOs - Part 1 * Flow around front * Capture from back * Gathering other EVOs * Can they pass one ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KOlJwSmjqbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KOlJwSmjqbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KOlJwSmjqbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-20T22:02:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fOaeXQuMBOMyTO9khRSZVbmar6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b95wwEDmtPc"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-20T14:50:03Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fruit cake - What can nature tell us about itself?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b95wwEDmtPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b95wwEDmtPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b95wwEDmtPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-20T14:50:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P4Bxh1PfLDMwM6WhUBdaIXbxC4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1mapzpDKw2Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-11T19:24:27Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Chistolinov - On the problem of spinning ball lightning",
+        "description": "Report outline 1. What is a ball lightning? 2. Why the problem of ball lightning rotation is so important? 3. What is coherent matter?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1mapzpDKw2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1mapzpDKw2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1mapzpDKw2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-11T19:24:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GyCDY6YOFzkmjUig2dsSEAfWIUg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KcKLxv2UabI"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-10T17:20:50Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Andrey Chistolinov, 25th Sochi CNT&amp;BL Presentations Introduction",
+        "description": "An overview of two presentations given at the Cold Nuclear Transmutation and Ball Lightning conference, Sochi, 2018 by Andrey ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KcKLxv2UabI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KcKLxv2UabI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KcKLxv2UabI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-10T17:20:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y_o5-bOzWj-Sdy4jU6y_vZjNEbQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pDBh81IwIkw"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-29T21:01:21Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Stoyan Sarg - Use of beta- emitter in simple, thermally driven E-Cat",
+        "description": "Stoyan Sarg, 2014 - In the absence of RF or sparks, Beta- is required for Cold Fusion in thermally driven E-Cat On December 6th ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pDBh81IwIkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pDBh81IwIkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDBh81IwIkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-29T21:01:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5rwJzkwZoLOuOvS5a87ECA_c30g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RKfHOjzioNw"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-28T22:11:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Super NOVA Test Instrumentation",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RKfHOjzioNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RKfHOjzioNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RKfHOjzioNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-28T22:11:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4seyvJXsy-lbNrHcBMsJ-SDocA8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "crskdAPFjSA"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-27T23:05:53Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Looking back - looking forward - Let&#39;s make 2020 the year of LENR",
+        "description": "ERRATA: Around 30 mins Bob says \"Saltpeter\" when he meant \"Potash\", at the end of the video he correctly calls K2CO3 - potash.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/crskdAPFjSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/crskdAPFjSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/crskdAPFjSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-27T23:05:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XVdZ9Cg3fzuVwSeY1w4yMBZgaLo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GTakx1XzT7Q"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-24T22:02:16Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Bob Greenyer Responds to Rossi Announcement",
+        "description": "MFMP volunteer Bob Greenyer discusses what at first appears to be the most significant achievement that will ever be possible for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GTakx1XzT7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GTakx1XzT7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GTakx1XzT7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-24T22:02:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qsHV2Mfx-TCildtp8Aflg4NrgYE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YF943FAPfHo"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-16T00:43:53Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "ULTR - Vivreal Ultrasonic cleaner frequency response to water depth",
+        "description": "The 384kHz files can be downloaded from here for analysis ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YF943FAPfHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YF943FAPfHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YF943FAPfHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-16T00:43:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Dc6mrm5bnPajLZFbVBhNBm_uJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4AtsTizXnpY"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-15T13:22:03Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Jörg Schauberger - Comprehend and Copy Nature and Cooperate with it",
+        "description": "In the words of Francesco Piantelli \"Don't tell nature what it is, let nature tell you\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4AtsTizXnpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4AtsTizXnpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4AtsTizXnpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-15T13:22:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "180j2JbgBblsx99vDjkxetNK6io",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "StU1duCeDTU"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-10T12:59:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Comments on SAFIRE at BEM2019",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/StU1duCeDTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/StU1duCeDTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/StU1duCeDTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-10T12:59:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xzb-Bd60wy_rQusS-IdOKR4UscU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UYQ_bQy8veA"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-08T00:44:17Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Lichtenberg Figures",
+        "description": "Figures driven by the sudden release of static electricity stored in polymers look a lot like the scars one might get from a lightning ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UYQ_bQy8veA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UYQ_bQy8veA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UYQ_bQy8veA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-08T00:44:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rX7IdrW2R7kOYQZcxb188zJItmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hlDAmVGS85g"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-02T15:16:37Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "ICCF22 - Konagaya 01 - Super multi-jet FUSINE reactor - Italy 2019",
+        "description": "Development of weak cold-fusion engine (Fusine) assisted by molecular chemical reaction: based on double ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hlDAmVGS85g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hlDAmVGS85g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hlDAmVGS85g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-02T15:16:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mtlobGX8lllhLMFixCryi4Z8e58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NNkvZxvGD1M"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-01T20:13:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Conscious Energies Live Podcast 6 - correction overlays and tweaked audio",
+        "description": "Original podcast here: https://youtu.be/7teehmrUlpA.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NNkvZxvGD1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NNkvZxvGD1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NNkvZxvGD1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-01T20:13:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6v_LgJhz7CvJZol8zKg2CT0KyM0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kznnhIpyNb4"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-12T12:49:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "ICCF22 poster session - Bob Greenyer",
+        "description": "MFMP volunteer Bob Greenyer runs through some aspects of his ICCF-22 Posters during the poster session. Errata: Bob initially ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kznnhIpyNb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kznnhIpyNb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kznnhIpyNb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-12T12:49:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kl2N6kEGzNq7zunmOTEvkRizfWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w1w4RYZIN-4"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-01T00:59:17Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "MFMP Hutchison Effect Sample &#39;Fracture&#39; - SEM &amp; EDS | P1",
+        "description": "Having seen interesting structures under optical microscopy, a closer look at the MFMP Hutchison 'Fracture' sample seamed ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w1w4RYZIN-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w1w4RYZIN-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w1w4RYZIN-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-01T00:59:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rFJqJVEoitEzZdjz1FL2QHiSt0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u_YpuqGjEL4"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-21T23:00:26Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "ECCO - Nickel Foil examination with Dino-Lite microscope",
+        "description": "High resolution images can be downloaded from here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u_YpuqGjEL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u_YpuqGjEL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u_YpuqGjEL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-21T23:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yl6e1O-W9XQSpu8RDsQet35BepY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1cGgPXogZ_0"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-09T18:31:58Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Browns Gas vs Tungsten experiment - Jeff Smathers",
+        "description": "Jeff Smathers was looking for a new welding solution for his workshop at the end of the 1990s. Following the plans of George ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1cGgPXogZ_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1cGgPXogZ_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1cGgPXogZ_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-09T18:31:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W62qFfUiAwLd9duw8FA7YVSbPHQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V5J3rJ1R1ho"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-03T00:59:06Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Parkhomov LENR Theory, rough English translation reading and discussion",
+        "description": "Parkhomov Theory published in Russian http://www.unconv-science.org/pdf/23/parkhomov1.pdf Rough English translation by Bob ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V5J3rJ1R1ho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V5J3rJ1R1ho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V5J3rJ1R1ho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-03T00:59:06Z"
+      }
+    }
+  ]
+}

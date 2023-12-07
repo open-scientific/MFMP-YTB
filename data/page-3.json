@@ -1,0 +1,1713 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ei913RpQxRkhFSgOYC0nxqTN_Nk",
+  "nextPageToken": "CMgBEAA",
+  "prevPageToken": "CJYBEAE",
+  "regionCode": "GB",
+  "pageInfo": {
+    "totalResults": 1425,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qvkuoCeDkz1kUZBiqKd1qOoZTBo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xhqOSu_IIfI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-10T09:37:57Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM - Tack?",
+        "description": "Photography by Bob Greenyer of VEGA experiment by Henk Jurrien, using Al cathode and anode in residual air and after addition ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xhqOSu_IIfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xhqOSu_IIfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xhqOSu_IIfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-10T09:37:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QPgAQoZkYmHUr_3nHKVFK8B9eJQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2_H5hkQekoc"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-06T23:33:06Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Taming a Neutron Star",
+        "description": "One more step on the road to a common understanding. LIVESTREAMED, Sun 6 November 2022 @ 23:00 CET Proton Scientific ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_H5hkQekoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_H5hkQekoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_H5hkQekoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-06T23:33:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bmqpk05N_FCIpbxqfzan-DSBCwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZHk0KlR909I"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-01T22:13:56Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Variable Cockcroft-Walton supply",
+        "description": "Henk's VEGA Variable Cockcroft-Walton supply ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZHk0KlR909I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZHk0KlR909I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHk0KlR909I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-01T22:13:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iEbKHmzbS5BXGqvvfHeLDMhAFiA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "liOszNhnHvM"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-30T20:03:27Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM - Sparkle time",
+        "description": "VEGA experiment using Al cathode and anode in residual air The macro photo is of the Anode where Ball Lightning causes ejecta ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/liOszNhnHvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/liOszNhnHvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/liOszNhnHvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-30T20:03:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FzIb4uAqxmsEMEYMFTsvrGxdSjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vclbdrQLkdA"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-30T07:00:18Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Bagel Tests - Full Spectrum Camera Plasma Globe Imaging",
+        "description": "Testing of bagel by Phil, with Neon Sign Transformer and Plasma Globe. \"The plasma globe was either unconnected (lit by the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vclbdrQLkdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vclbdrQLkdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vclbdrQLkdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-30T07:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ov29RTEfpLXtdCr3WORce69D8ZQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n8wM2Nn3wyE"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-30T04:57:23Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM - Spray spark",
+        "description": "VEGA experiment using Marshal CV420-30X-NDI to look deep into plasma by varying shutter up to 1/10000 s and F-Stop to 22 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n8wM2Nn3wyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n8wM2Nn3wyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n8wM2Nn3wyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-30T04:57:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SC9xKcj1nhrbMiV4aNPzDKWnF-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sjjiQ96mOo4"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-29T15:57:02Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - ALUM - Stream test - 02",
+        "description": "Testing of streaming setup of VEGA experiment using Al cathode and anode in residual air ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sjjiQ96mOo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sjjiQ96mOo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sjjiQ96mOo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-29T15:57:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wKfLMfYPop0uhTShLKELd5_QZp4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JiWiiwj3Avk"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T21:53:06Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Learning LENR in the reverse-vortex plasma power generator PEG-2 (Russian)",
+        "description": "Webinar No. 1 of the autumn-winter 2022 session of the Klimov-Zatelepin seminar was held on October 26, 2022 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JiWiiwj3Avk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JiWiiwj3Avk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JiWiiwj3Avk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T21:53:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jDOviX-rKmdC9EyuySLDX0D_Dts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZD1nmHkEaRI"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-25T22:25:56Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Proton Scientific website went into a black hole... why?",
+        "description": "Not to fear, it is saved here for posterity! ---------------------------------------------------------------- Help light the New Fire: Please consider ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZD1nmHkEaRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZD1nmHkEaRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZD1nmHkEaRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-25T22:25:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "afbvJwYuQId1ZiMltoM5ly8eazo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TfAuxjLncdo"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-25T22:24:59Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Bagel Balling?",
+        "description": "Quick review of some very interesting data. References Artificial ball lightning in a vodka bottle 19 Mar 2013 - Xenon inside an ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TfAuxjLncdo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TfAuxjLncdo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TfAuxjLncdo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-25T22:24:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Q-Mux79Kn6nEYFA4OKe3UnV8zc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A9cDxPmnWQw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-17T00:03:04Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Understanding True Charge Separation",
+        "description": "Is this THE secret? LIVESTREAM, Sun 16 October 2022 @ 22:00 CET ---------------------------------------------------------------- Help light ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A9cDxPmnWQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A9cDxPmnWQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A9cDxPmnWQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-17T00:03:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VB01pbrHrf-QqvKUVHnMcAom_HQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gux490Oywoo"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-09T21:19:02Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fractal Toroidal Moment Induced Transformation Reactions - A Coherent Matter Driven Process - V02",
+        "description": "Bob Greenyer's Presentation at the 27th Russian Cold Nuclear Transmutation and Ball Lightning conference 2022, walks through ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gux490Oywoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gux490Oywoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gux490Oywoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-09T21:19:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3RthIgu_UhkY5hq-A0A-M0_JVys",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DkJSCR7ZH_Y"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-09T11:15:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Friday final session",
+        "description": "7th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DkJSCR7ZH_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DkJSCR7ZH_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DkJSCR7ZH_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-09T11:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-stQciOi4B9wEZiDxOGtvJ12roU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E3bKu0E78yw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-09T11:15:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Friday Morning",
+        "description": "7th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E3bKu0E78yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E3bKu0E78yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E3bKu0E78yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-09T11:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4DgWHr15VFKVdGw63JgnFy39ZG4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ov8arrPjJsk"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-09T03:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Thursday Q&amp;A",
+        "description": "6th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ov8arrPjJsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ov8arrPjJsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ov8arrPjJsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-09T03:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YdB3b0Tq7JYyRbAnKa5z4LmqJfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rFo2GAl5kaQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-08T21:30:03Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Thursday Afternoon",
+        "description": "6th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rFo2GAl5kaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rFo2GAl5kaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rFo2GAl5kaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-08T21:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F-8MvF0EtBN4_uo8pX4jHQYAc6A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hx1NWabzQaI"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-08T21:00:06Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Thursday Morning",
+        "description": "6th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hx1NWabzQaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hx1NWabzQaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hx1NWabzQaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-08T21:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DhfVNJUM2edJR6Ll_JOjur796qY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DlNUf4aeIE8"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-08T20:45:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Sharing data with Leonid Urutskoev",
+        "description": "Leonid Urutskoev was the chairman of the last Q&A of the 27th Russian Cold Nuclear Transmutation and Ball Lightning ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DlNUf4aeIE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DlNUf4aeIE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DlNUf4aeIE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-08T20:45:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YKC2w_CW2g6djtVcmrDDFFCeYnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bjX7M-m6tH8"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-07T16:00:32Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Wednesday Q&amp;A",
+        "description": "5th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bjX7M-m6tH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bjX7M-m6tH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bjX7M-m6tH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-07T16:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sGkq_wLUbsqXuhNch-aeeit1_Q0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7UjZthjz8wI"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-07T13:00:09Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Wednesday Afternoon",
+        "description": "5th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7UjZthjz8wI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7UjZthjz8wI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7UjZthjz8wI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-07T13:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vLHk93tFdqwdUYNRoqjBA9ks9GI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "65G92MvSyc0"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-07T09:00:03Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Wednesday Morning",
+        "description": "5th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/65G92MvSyc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/65G92MvSyc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/65G92MvSyc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-07T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kBaxVu7YgOgZi-VcxBgVJ-OK_i8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4DE2FcZOaww"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-06T14:17:00Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Tuesday Q&amp;A",
+        "description": "4th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4DE2FcZOaww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4DE2FcZOaww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4DE2FcZOaww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-06T14:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nv8g5AqeUAJSCTsO8KYzMaehlNg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UnLg4Pt-WKk"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-06T13:00:31Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Tuesday Afternoon",
+        "description": "4th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UnLg4Pt-WKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UnLg4Pt-WKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UnLg4Pt-WKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-06T13:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F2rwiCwrjJLwnOxZu3T78dJW2XE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CxVa7cd8pSs"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-06T08:00:04Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Tuesday Morning",
+        "description": "4th October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CxVa7cd8pSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CxVa7cd8pSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CxVa7cd8pSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-06T08:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D6TxRpDlMS-NtbEIcFuEC1D-6lI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XNX8nBR46Tg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-05T11:00:17Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Monday Afternoon",
+        "description": "3rd October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XNX8nBR46Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XNX8nBR46Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XNX8nBR46Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-05T11:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W1jnoDnCvsJJjjkNrj6w9Ew7-jE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HccOVw4QqU8"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-05T08:00:07Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Cold Nuclear Transmutation &amp; Ball Lightning 27 - Monday Morning",
+        "description": "3rd October 2022.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HccOVw4QqU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HccOVw4QqU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HccOVw4QqU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-05T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x8TwPL_STtx32f62BoBOq4pNiR0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AZ9RJr_s31w"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-29T21:13:43Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "ULTR - A simple quick and repeatable demonstration of the LENR process - ISCMNS 15 - Assisi - 2022",
+        "description": "Bob Greenyer's presentation at the ISCMNS conference in Assisi, 2022 - draws upon a host of dynamic water based patents and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AZ9RJr_s31w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AZ9RJr_s31w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AZ9RJr_s31w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-29T21:13:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JLxTAf2Wm8LrpcR54S_sv4Luoq8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2MGR0G-0LEM"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-19T02:32:26Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Magenets &amp; Mushrooms",
+        "description": "Rethink what is possible with \"The 'god's' Toolbox\" Presentation overview Review of “O-Day - Gravity transformation” Explaining ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2MGR0G-0LEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2MGR0G-0LEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2MGR0G-0LEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-19T02:32:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JBgH6gDFjaocb9mmIlIKwEMTKA4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-c3dwRNEhes"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-12T00:38:36Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Gravity transformation",
+        "description": "Explaining ULTR, HHO and more All references in this video will be linked after the presentation here: Solin (1992) - “Active ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-c3dwRNEhes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-c3dwRNEhes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-c3dwRNEhes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-12T00:38:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "awUYIT6HLmB_M5Uac1PEgZil3Ns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Awq2xKCDdU"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-29T00:14:33Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - At the tip of the pyramid",
+        "description": "All references in this video can be sourced here: https://remoteview.substack.com/p/o-day-at-the-tip-of-the-pyramid Scalar and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Awq2xKCDdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Awq2xKCDdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Awq2xKCDdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-29T00:14:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aiG7zl2SuBN-98nXlXAWbD2RZ0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j_EhoFbFeto"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-26T20:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Vacuum Pump",
+        "description": "Henk's challenge with vacuum pumps in his VEGA experiments. ---------------------------------------------------------------- Help light the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j_EhoFbFeto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j_EhoFbFeto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j_EhoFbFeto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-26T20:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5DsOP2MieOoIZqYH70ZNm45j0DY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "71ZgF-UFZDg"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-25T20:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Power Supply",
+        "description": "Henk's VEGA experiment power supply overview. ---------------------------------------------------------------- Help light the New Fire: Please ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/71ZgF-UFZDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/71ZgF-UFZDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/71ZgF-UFZDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-25T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xV01fQ_4_52LrgdWtfFJMp0mTBc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ASG5ecrSIlk"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-24T20:00:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Gas Manifold",
+        "description": "Henk's novel manifold for applying vacuum and gasses into his VEGA experiment.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ASG5ecrSIlk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ASG5ecrSIlk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASG5ecrSIlk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-24T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iFzwXWxR13e_rI4aQ9ny_CYAzao",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XmMAqkyJrqM"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T20:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Anode Stem",
+        "description": "How Henk developed a reliable anode holder for his VEGA experiments. ---------------------------------------------------------------- Help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XmMAqkyJrqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XmMAqkyJrqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XmMAqkyJrqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g7mrDq-aVn_Zob26JazjO200kYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XULfcwGWa8s"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-22T20:00:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Reaction Chamber",
+        "description": "Where the videos of the August 2022 VEGA Experiments were recorded. ---------------------------------------------------------------- Help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XULfcwGWa8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XULfcwGWa8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XULfcwGWa8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-22T20:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FI1mk2Tqq9Qwi039hzGSn5vx-kg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lfy1e7XWr38"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-19T20:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Coherent Matter Home Building and Horticulture",
+        "description": "Are the active agents alive? ---------------------------------------------------------------- Help light the New Fire: Please consider joining those ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lfy1e7XWr38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lfy1e7XWr38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lfy1e7XWr38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-19T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Ur87gv19qHXDYR0sAHl-GzvC6s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SL2xfTn0c0U"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-18T20:00:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Deposits, are they soot?",
+        "description": "In VEGA and other LENR, coherent matter, discharge plasma, HHO and ultrasonic experiments, a large amount of Carbon is often ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SL2xfTn0c0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SL2xfTn0c0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SL2xfTn0c0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-18T20:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N7Idlf0nhLoPHuZMAue9qhwMizE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZhCcsiltTZU"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-17T20:00:13Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Cardioid Infarction",
+        "description": "A study by Henk Jurrien explores the role of crack scale on active structure formation.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZhCcsiltTZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZhCcsiltTZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZhCcsiltTZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-17T20:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "laJxVcD_QtMBu5c8SL89Nk3Rkfc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2coPOZtRFOU"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-16T20:00:12Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA Valley - Exploring Cluster Mining",
+        "description": "A multi-parameter study by Henk Jurrien explores the role of Brass, KOH, Fe, cathode layers and gaps in channel mining.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2coPOZtRFOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2coPOZtRFOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2coPOZtRFOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-16T20:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xh5vCxb_y1qKOUciKSO86mM-eSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4H9HmtJq8hU"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-15T21:30:10Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA Valley - Cathode Stack",
+        "description": "The unique layered arrangement that lead to the making of the VEGA Valley ---------------------------------------------------------------- Help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4H9HmtJq8hU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4H9HmtJq8hU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4H9HmtJq8hU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-15T21:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6xKvssbH86146ckxkYdj0nWgMdg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wjbazp8zPjQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-11T23:15:11Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - SONY Alpha close-ups discussion",
+        "description": "VEGA experiment after some Hydrogen added, review of high resolution fast exposure images. Main elements in reactor Residual ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wjbazp8zPjQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wjbazp8zPjQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wjbazp8zPjQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-11T23:15:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NFe27MougZMICfsRb9YETYNIgT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZmquXQNlQzI"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-10T20:05:33Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Valley - Where it was made",
+        "description": "Vega 'Valley' was made in am old water tank as a happy accident. In this video we show the vessel in question and how the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmquXQNlQzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmquXQNlQzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmquXQNlQzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-10T20:05:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aT-XvicaA053DumFIW3EfM9TEOc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uEVraSLfWzY"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-07T23:59:08Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Event Horizon",
+        "description": "LIVESTREAM 22:30, 7th August 2022 The New Fire - Are we there yet? ---------------------------------------------------------------- Help light ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uEVraSLfWzY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uEVraSLfWzY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uEVraSLfWzY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-07T23:59:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9m85gOgJYrWDm_eABxBRnVWfPWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5lDogxtUZLo"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-01T14:00:02Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "VEGA - Exploding the Valley - 15mm Ball Lightning Cut",
+        "description": "Back in July 2021 an experiment was conceived by Henk to explore ideas relating to the VEGA Valley and other things that had ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5lDogxtUZLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5lDogxtUZLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5lDogxtUZLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-01T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3QCE8IKH19DS7JelXs8EgeQIHOA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8cjZQlRZ4iI"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-26T20:31:39Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "ICCF 24 - Comment - Response - Challenge",
+        "description": "Bob says Silicon Carbonate when he meant Lithium Carbonate in reference to MFMP Celani Cell Replication Borosilicate tubes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8cjZQlRZ4iI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8cjZQlRZ4iI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8cjZQlRZ4iI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-26T20:31:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nH_c97-w93Xk7liyVSiN-Y647R4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5qxtpB7amSg"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-24T22:19:47Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Fixing Fukushima - Second bite of the apple",
+        "description": "LIVESTREAM 24 Jul 2022, 22:00 CET Will a second proposal peak their interest?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5qxtpB7amSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5qxtpB7amSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5qxtpB7amSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-24T22:19:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CSaabxg0cVbgzLpCP3kQW3Y2VyM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5kSsTwxTV0A"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-17T21:55:05Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - From under 2x to 10x excess heat",
+        "description": "LIVESTREAM 17 Jul 2022, 22:00 CET Is it possible to leverage the power of EVOs to take excess heat from under 2x to 10x?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5kSsTwxTV0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5kSsTwxTV0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5kSsTwxTV0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-17T21:55:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RfFQNl6u5nJkV0hy2Q3qbImJG6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sYIpK4YcoBI"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-15T18:19:26Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Coronal Heating Problem Proposed Solution",
+        "description": "I propose that Exotic Vacuum Objects (EVOs) producing highly ionised nuclei such as Fe carry these entrained ions along the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sYIpK4YcoBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sYIpK4YcoBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sYIpK4YcoBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-15T18:19:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ywpDeCMiD4CxfgRfGdR5800C3qk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TyifkwO9CjM"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-03T02:30:20Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "O-Day - Cosmic Daves Bagel Winder",
+        "description": "An overview of Cosmic Dave's latest version of his T1 - automated coil winder.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TyifkwO9CjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TyifkwO9CjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TyifkwO9CjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-03T02:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oMEK7t6Ve2vYhq0XVSjC9CWNJbQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EzEEglP-vqA"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-23T18:00:04Z",
+        "channelId": "UCEy09JW5XAd95JmknU1JOeQ",
+        "title": "Water heterogeneous plasmoid reactor, Klimov A.I. (in Russian)",
+        "description": "Webinar No. 19 of the winter - spring 2022 session of the Klimov-Zatelepin seminar was held on June 22, 2022 (Wednesday) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EzEEglP-vqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EzEEglP-vqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EzEEglP-vqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Martin Fleischmann Memorial Project",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-23T18:00:04Z"
+      }
+    }
+  ]
+}
